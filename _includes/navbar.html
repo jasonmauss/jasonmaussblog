@@ -1,0 +1,56 @@
+<header class="site-header">
+
+  <!-- Logo and title -->
+<div class="branding">
+  <a href="{{ '/' | relative_url }}">
+    <img alt="logo img" class="avatar" src="{{ site.data.settings.logo | relative_url }}" />
+  </a>
+
+  <h1 class="site-title">
+    <a aria-label="{{ site.data.settings.title }}" href="{{ '/' | relative_url }}">
+      {{ site.data.settings.title }}
+    </a>
+  </h1>
+</div>
+
+  <!-- Toggle menu -->
+  <nav class="clear">
+  <a aria-label="pull" id="pull" class="toggle" href="#">
+  <i class="fa fa-bars fa-lg"></i>
+  </a>
+
+  <!-- Menu -->
+  <ul class="willhide">
+    <li {% if page.url == "/" %} class="active"{% endif %}>
+      <a class="clear" aria-label="Home" title="Home" href="/">Home</a>
+  </li>
+    {%- for item in site.data.settings.items -%}
+    {%- unless item.name == null or item.siteurl ==  null -%}
+      <li {% if page.url contains item.siteurl %} class="active"{% endif %}>
+        <a class="clear" aria-label="{{ item.name }}" title="{{ item.name }}" href="{{ item.siteurl }}" {%- if item.tab -%} target="_blank" {%- endif -%}>
+          {{ item.name }}
+        </a>
+      </li>
+      {%- endunless -%}
+    {%- endfor -%}
+      {%- assign name_page = "" -%}
+      {%- for name_page in site.pages | sort: 'title' -%}
+          {%- unless name_page.title == null or name_page.show == false -%}
+          <li {% if page.url contains name_page.url %} class="active" {% endif %}>
+              <a class="clear" aria-label="{{ name_page.title }}" title="{{ name_page.title }}" href="{{ name_page.url | relative_url }}">
+                  {%- if name_page.icon -%} <i class="fa {{ name_page.icon }}" aria-hidden="true"></i>
+                  {%- else -%} {{ name_page.title }} {%- endif -%}
+              </a>
+          </li>
+          {%- endunless -%}
+          {%- assign name_page = page.title | append: name_page -%}
+      {%- endfor -%}
+      <li>
+        <a class="clear" aria-label="Editor" title="Editor" href="/admin/" target="_blank">
+          <i class="fa fa-pencil"></i>
+        </a>
+      </li>
+  </ul>
+
+</nav>
+</header>
