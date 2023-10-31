@@ -1,13 +1,13 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: Jason's Blog
+description: Code, Sports, Music, Texas BBQ
+footer_text: Copyright 2023 Jason Mauss
+header_feature_image: ../uploads/placeholder4.jpg
+header_text: ""
 header_text_color: "#ffffff"
-footer_text: Copyright 2021 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-navbarheight: "55px"
-gridlayout: false
+bannerheight: 20vmax
+navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
