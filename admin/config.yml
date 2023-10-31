@@ -1,14 +1,14 @@
 backend:
   name: github
-  repo: githubusername/yourrepositoryname # Path to your GitHub repository
+  repo: jasonmauss/jasonmaussblog # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: moss-bawss.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://yoursite.netlify.app
-logo_url: https://yoursite.netlify.app/uploads/logo.jpg
+display_url: https://moss-bawss.netlify.app
+logo_url: https://moss-bawss.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
