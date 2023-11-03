@@ -45,6 +45,6 @@ T﻿his is a fairly recent one for me. I got bit by the BBQ bug only a couple of
 
 ![Slices of beef brisket](../uploads/0rt5ym9dv7xb1.webp "Slices of beef brisket")
 
-I﻿f you read down this far, thanks for reading! If you want to drop me a line you can check out the links at the bottom of the home page.
+I﻿f you read down this far, thanks for reading! If you want to get in touch with me you can check out the links at the bottom of the page below.
 
 \-﻿-Jason
