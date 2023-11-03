@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: About Me
 image: ../uploads/yosemite.jpg
-subtitle: About Me
+subtitle: (Jason Mauss)
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
@@ -31,7 +31,7 @@ R﻿ight after high school I was fortunate enough to take a job with an uncle of
 
 ## S﻿ports
 
-A﻿s I mentioned, I grew up in the Bay Area in the 80's and 90's and played a lot of organized sports pretty much year-round. Baseball, Basketball, Soccer, and the sport I eventually became completely obsessed with - Tennis. Growing up where I did and when I did: Go A's! Go 49ers! Go Warriors! (I have no hate for the Giants really, but I quietly enjoy seeing the Raiders struggle. Although if I'm being honest, I find myself feeling less animosity towards the Raiders as time passes. I first got into Tennis as a sophomore in high school. No lessons or coaches or anything really, just practices during the season. I eventually played #1 Singles for my high school team. I didn't really get decent at the sport until I picked it back up against and started practicing with my own ball machine in my early 20's. I eventually ended up playing USTA Leagues (4.5 level) and some other Open level leagues for a while until a shoulder injury sidelined me for a while. I'm about as knowledgeable about the sport and the professional players as it gets though and still regularly watch not only the four majors every year, but all the smaller, lesser-known tournaments throughout the insanely long 11 month long season every year.
+A﻿s I mentioned, I grew up in the Bay Area in the 80's and 90's and played a lot of organized sports pretty much year-round. Baseball, Basketball, Soccer, and the sport I eventually became completely obsessed with - Tennis. Growing up where I did and when I did: Go A's! Go 49ers! Go Warriors! (I have no hate for the Giants really, but I quietly enjoy seeing the Raiders struggle. Although if I'm being honest, I find myself feeling less animosity towards the Raiders as time passes). I first got into Tennis as a sophomore in high school. No lessons or coaches or anything really, just practices during the season. I eventually played #1 Singles for my high school team. I didn't really get decent at the sport until I picked it back up against and started practicing with my own ball machine in my early 20's. I eventually ended up playing USTA Leagues (4.5 level) and some other Open level leagues for a while until a shoulder injury sidelined me for a while. I'm about as knowledgeable about the sport and the professional players as it gets though and still regularly watch not only the four majors every year, but all the smaller, lesser-known tournaments throughout the insanely long 11 month long season every year.
 
 ## M﻿usic
 
@@ -42,8 +42,6 @@ M﻿usic is as big a part of my life as anything else so it felt right to give i
 T﻿his is a fairly recent one for me. I got bit by the BBQ bug only a couple of years ago (so, about 2021) but it's become kind of an obsession of mine in that short time. I've watched hundreds of hours of video content, mostly on YouTube, about the best methods for cooking delicious BBQ foods including brisket, pulled pork, pork ribs, beef ribs, sausage, turkey, and various types of sauces. I have a couple of different smokers in my backyard that I use to practice perfecting the craft of Texas style BBQ. My favorite cut to cook is still brisket, which I've just about perfected getting a really dark bark, a rich smokey flavor, and the juiciest nicely rendered fat with a thick reddish-pink smoke ring on every slice. Pulled pork is probably my second favorite. I'm fortunate to work remotely for a company based in the Dallas/Fort Worth area that I travel to the offices of occasionally and get to hit up BBQ restaurants in the area while I'm visiting.
 
 ![Dark bark on a smoked brisket](../uploads/7xpxwl9dv7xb1.webp "Dark bark on a smoked brisket")
-
-
 
 ![Slices of beef brisket](../uploads/0rt5ym9dv7xb1.webp "Slices of beef brisket")
 
