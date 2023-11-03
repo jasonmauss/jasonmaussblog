@@ -1,4 +1,4 @@
-title: Jason's Blog
+title: JasonMauss.com
 description: Code, Sports, Music, Texas BBQ
 footer_text: Copyright 2023 Jason Mauss
 header_feature_image: ../uploads/nasahero.jpg
@@ -9,5 +9,6 @@ navbarheight: 55px
 logo: ../uploads/1516581774397.jpg
 favicon: ../uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
+items: []
