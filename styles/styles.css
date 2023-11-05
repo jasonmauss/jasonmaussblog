@@ -693,7 +693,7 @@ h3.tag-anchor i {
 }
 
 .site-header {
-background: #fff;
+background: #1e1e1e;
 width: 100%;
 top:0;
 padding-right: 20px;
@@ -717,6 +717,10 @@ align-items: center;
 
 .site-header a {
     color: #383838
+}
+
+.site-header .site-title a {
+    color:#E1E1E1;
 }
 
 .branding {

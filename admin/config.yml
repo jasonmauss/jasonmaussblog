@@ -345,6 +345,7 @@ collections:
                 "Alegreya",
                 "Montserrat",
                 "Libre Baskerville",
+                "Outfit",
               ]
             default: ["Source Serif Pro"]
             hint: "This would normally be a sans serif or serif but not slab serif."
@@ -361,6 +362,7 @@ collections:
                 "Bevan",
                 "Montserrat",
                 "Libre Baskerville",
+                "Lobster",
               ]
             default: ["Roboto Slab"]
             hint: "You can choose any of these for the headings; Bevan is a display font."
