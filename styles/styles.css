@@ -463,7 +463,7 @@ header {
   /* font-size: 1.2em; */
   text-align: center;
   color: #FFF;
-  background: #337ab7 no-repeat;
+  background: #1E1E1E no-repeat;
   background-size: cover;
   background-position: center;
   /* background-origin: content-box; */
@@ -671,7 +671,7 @@ h3.tag-anchor i {
 }
 
 .site-footer .footer-icons ul li a {
-    color: #87758e;
+    color: #1E1E1E;
 }
 
 .site-footer .footer-icons ul a:hover {
