@@ -54,6 +54,7 @@ h1 a {
 .home #main h1 {
     font-size: 3em;
     line-height: 1;
+    font-weight: normal;
 }
 
 h2 {
@@ -741,7 +742,7 @@ align-items: center;
 }
 
 .site-header .site-title {
-    font-weight: bold;
+    font-weight: normal;
     font-size: 1.3em
 }
 
