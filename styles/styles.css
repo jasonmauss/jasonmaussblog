@@ -340,7 +340,7 @@ header {
 
 header h1.title {
     font-family: 'Outfit', "Palatino Linotype", "Book Antiqua", Palatino, serif;
-
+    font-size:2em;
 }
 
 .posts h1 a.post-link {
