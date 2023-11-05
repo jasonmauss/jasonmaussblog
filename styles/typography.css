@@ -79,8 +79,9 @@ blockquote {
 }
 
 /* change the first paragraph in a blog post */
-.post-content p:first-child {
-  font-size: 1.1em;
+.post-content p:first-child,
+.post-content p {
+  font-size: 1em;
 }
 
 /* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
