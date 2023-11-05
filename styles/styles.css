@@ -717,7 +717,7 @@ align-items: center;
 }
 
 .site-header a {
-    color: #383838
+    color: #E1E1E1
 }
 
 .site-header .site-title a {
@@ -747,7 +747,7 @@ align-items: center;
 }
 
 .site-header nav {
-  font-family: "Source Sans Pro", "Trebuchet MS", Helvetica, Arial, sans-serif;
+  font-family: "Outfit", "Trebuchet MS", Helvetica, Arial, sans-serif;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -771,11 +771,11 @@ align-items: center;
   }
   
   .site-header nav a:hover {
-    color: #812db9;
+    color: #1E1E1E;
   }
   
   .site-header nav li:hover {
-    background-color: #e4fdbd;
+    background-color: #ffffff;
   }
 
 .site-header nav a#pull i {
@@ -1398,5 +1398,5 @@ a.word {
 
 
 li.active {
-    background-color: #ebce7f;
-  }
+    background-color: #FFFF00;
+}
