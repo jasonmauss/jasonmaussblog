@@ -49,7 +49,7 @@
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
   </script>
-  {% endif %}
+  {%- endif -%}
   {%- if page.title != site.hide_title -%}
   <title>{{site.title}} | {{ page.title }}</title>
   {%- else -%}
