@@ -1400,3 +1400,7 @@ a.word {
 li.active {
     background-color: #FFFF00;
 }
+
+li.active a {
+    color:#1E1E1E;
+}
