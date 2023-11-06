@@ -39,14 +39,17 @@ h1 a {
 
 h2 {
   font-size: 1.75em;
+  color: #E1E1E1;
 }
 
 h3 {
   font-size: 1.5em;
+  color: #E1E1E1;
 }
 
 h4 {
   font-size: 1.15em;
+  color: #E1E1E1;
 }
 
 .caption {
@@ -82,6 +85,11 @@ blockquote {
 .post-content p:first-child,
 .post-content p {
   font-size: 1em;
+}
+
+/* custom style added, prefer Outfit font for headings, not Lobster */
+.post-content h2 {
+  font-family: 'Outfit', "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 /* when the screen gets small the fonts then change size. There are 2 steps here. You can leave this alone*/
