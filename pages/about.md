@@ -15,7 +15,7 @@ Hey there, thanks for visiting my website. I'll try to keep this short since I w
 
 I'm originally a California native, hailing from the NorCal's East Bay, specifically Antioch. However, destiny led me to the emerging suburbs of Northwest Phoenix, more precisely, Surprise, Arizona, back in 2006, and I've called this place home ever since. As for my relationship with the scorching Arizona heat, let's just say we've come to a mutual understanding over the years that neither of us will be departing the desert anytime soon.
 
-T﻿he home page here mentions "Code, Sports, Music, and Texas style BBQ". Let's discuss these things, in that order.
+T﻿he home page banner mentions "Code, Sports, Music, and Texas style BBQ". Let's discuss these things, in that order.
 
 ## C﻿ode
 
@@ -33,19 +33,39 @@ Fast forward 25 years, and I find myself as a seasoned senior full-stack softwar
 
 ## S﻿ports
 
-A﻿s I mentioned, I grew up in the Bay Area in the 80's and 90's and played a lot of organized sports pretty much year-round. Baseball, Basketball, Soccer, and the sport I eventually became completely obsessed with - Tennis. Growing up where I did and when I did: Go A's! Go 49ers! Go Warriors! I have no hate for the Giants really, but I quietly enjoy seeing the Raiders struggle. Although if I'm being honest, I find myself feeling less animosity towards the Raiders as time passes. I first got into Tennis as a sophomore in high school. No lessons or coaches or anything really, just practices during the season. I got good enough to eventually play #1 Singles for my high school team. I didn't really get decent at the sport until I picked it back up again and started practicing with my own ball machine in my early 20's. I eventually ended up playing USTA Leagues (4.5 level) and some other Open level leagues for a while until a shoulder injury sidelined me for a while. I'm about as knowledgeable about the sport and the professional players as one can be and still regularly watch not only the four majors every year, but all the smaller, lesser-known tournaments throughout the insanely long 11 month season every year.
+As I mentioned, my formative years were in the vibrant sports scene of the Bay Area during the 80s and 90s. I immersed myself in playing organized sports year-round, from baseball and basketball to soccer. However, during my high school years, it became tennis that truly captured my heart.
+
+Coming of age in the Bay Area meant rooting for iconic teams: The Oakland A's, San Francisco 49ers, and Golden State Warriors! The Warriors took a while to bring home some championships, but it was worth the wait. While I don't harbor any ill will toward the Raiders, there's an unspoken satisfaction in watching the Raiders' struggles, though as time passes, my animosity towards them has mellowed.
+
+My journey with tennis began as a high school sophomore. I ventured into it without any formal lessons or coaches, simply practicing during the spring season each year. Over time, I honed my skills to the point where I proudly held the #1 Singles position on my high school team. It wasn't until my mid-twenties that I seriously picked up the sport again and started practicing with my own ball machine. I delved even deeper, participating in USTA Leagues at the 4.5 level and exploring various Open level leagues, until a shoulder injury briefly sidelined me.
+
+My passion for tennis has led me to an extensive knowledge of the sport and its professional players. I eagerly follow not only the prestigious Grand Slam events but also the lesser-known tournaments that make up the grueling 11-month tennis season. It's a passion that has stayed with me throughout the years. I've even been lucky enough as an experienced stringer to work seniors tournaments where I strung racquets for Andre Agassi, Pete Sampras, John McEnroe and other tennis legends.
 
 ## M﻿usic
 
-M﻿usic is as big a part of my life as anything else so it felt right to give it a place here. I grew up playing piano from a young age, and dabbled in playing the trumpet for several years as well. I've tried several times to try and get better at guitar and the drums, but it's just a future hobby for me these days. Piano is where I went the furthest skills-wise and ended up performing several classical pieces at recitals from composers like Beethoven, Liszt, Rachmaninov, and others. Piano certainly helped with my keyboard typing as well and had me typing at about 50 WPM on the typing tests in middle school!
+Music holds a profound place in my life, akin to the core elements that define who I am. From my earliest days, I embraced the world of music, starting with the piano. I explored this instrument from a young age and even ventured into the realm of trumpet playing, dedicating several years to practicing it as well. While my attempts to conquer the guitar and drums remain on the horizon as future hobbies, it's the piano that has seen me journey farthest in terms of skill.
+
+The piano has been my companion on my musical journey, and it's the instrument that I've cultivated most extensively. During my teen years I took my passion for piano beyond the realm of personal enjoyment and embarked on the thrilling challenge of performing classical compositions. Performing the works of esteemed composers like Beethoven, Liszt, Rachmaninov, and others became part of my pursuit, and I proudly showcased their timeless beauty in recitals.
+
+Interestingly, my piano journey also had a surprising side effect - it greatly enhanced my keyboard typing skills. By practicing piano, my fingers became nimble and precise, translating into a typing prowess that had me effortlessly achieving 50+ words per minute in middle school typing tests.
 
 ## T﻿exas style BBQ
 
-T﻿his is a fairly recent one for me. I got bit by the BBQ bug only a couple of years ago (so, about 2021) but it's become kind of an obsession of mine in that short time. I've watched hundreds of hours of video content, mostly on YouTube, about the best methods for cooking delicious BBQ foods including brisket, pulled pork, pork ribs, beef ribs, sausage, turkey, and various types of sauces. I have a couple of different smokers in my backyard that I use to practice perfecting the craft of Texas style BBQ. My favorite cut to cook is still brisket, which I've just about perfected getting a really dark bark, a rich smokey flavor, and the juiciest nicely rendered fat with a thick reddish-pink smoke ring on every slice. Pulled pork is probably my second favorite. I'm fortunate to work remotely for a company based in the Dallas/Fort Worth area that I travel to the offices of occasionally and get to hit up BBQ restaurants in the area while I'm visiting.
+My journey into the world of Texas style BBQ is a relatively recent one, igniting just a few years ago, around 2021. In this short span, it has evolved from a mere interest into a full-blown obsession. I've immersed myself in the art of BBQ, dedicating countless hours to devouring video content, primarily on YouTube, that unveils the secrets to crafting mouthwatering BBQ dishes. From brisket to pulled pork, pork ribs to beef ribs, sausage to turkey, and an array of delectable sauces, I've delved into the techniques that transform ordinary cuts into extraordinary feasts.
+
+In my backyard, I have my smoker setup, a crucial tool in my quest to master the art of Texas-style BBQ. Among the tantalizing cuts, brisket remains my perennial favorite. Through continuous practice and experimentation, I've honed the skills necessary to achieve that coveted dark bark, a rich smokiness that infuses every bite, and the luxurious rendering of fat, with each slice adorned by a distinctive reddish-pink smoke ring.
+
+Pulled pork, with its succulent tenderness and harmonious blend of flavors, has secured a close second place in my culinary heart. Fortunately, my current work arrangement allows me the privilege of remote employment with a company based in the Dallas/Fort Worth area. This grants me the opportunity to visit their offices from time to time, and in those moments, I make sure to explore the BBQ establishments that Texas is renowned for.
 
 ![Dark bark on a smoked brisket](../uploads/7xpxwl9dv7xb1.webp "Dark bark on a smoked brisket")
 
 ![Slices of beef brisket](../uploads/0rt5ym9dv7xb1.webp "Slices of beef brisket")
+
+## My Amazing Family
+
+While this may not take center stage on the home page banner, an 'About Me' page wouldn't be complete without acknowledging the wonderful individuals who make up my family. My incredible wife is not only a talented photographer (you can check out her work [here](https://desertmousecreative.com/)), but she's also a culinary magician in the kitchen, known for crafting some of the most mouthwatering tacos you'll ever have the pleasure of savoring.
+
+As for our three children, they've grown into remarkable adults now in their twenties, and we've transitioned into the 'empty-nest' phase of life. Witnessing our kids evolve into outstanding individuals is a true blessing, and we relish every moment we spend with them and their partners whenever our paths cross. Admittedly, we might occasionally sweeten the deal with promises of those delectable tacos or a tantalizing taste of Texas-style BBQ. After all, family gatherings are made even more special with great food and even greater company.
 
 I﻿f you read down this far, thanks for reading! If you want to get in touch with me you can check out the links at the bottom of the page below.
 
