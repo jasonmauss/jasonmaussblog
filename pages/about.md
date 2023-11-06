@@ -13,21 +13,23 @@ show: true
 ---
 Hey there, thanks for visiting my website. I'll try to keep this short since I would imagine most people don't have much of an attention span when it comes to learning about me. ;)
 
-I﻿'m a California kid (NorCal/East Bay/Antioch) that ended up moving to the Northwest Phoenix suburbs (Surprise, Arizona) in 2006 and that's where I've been ever since. Do I love the heat? Absolutely not, but I have learned how to begrudgingly tolerate it.
+I'm originally a California native, hailing from the NorCal's East Bay, specifically Antioch. However, destiny led me to the emerging suburbs of Northwest Phoenix, more precisely, Surprise, Arizona, back in 2006, and I've called this place home ever since. As for my relationship with the scorching Arizona heat, let's just say we've come to a mutual understanding over the years that neither of us will be departing the desert anytime soon.
 
 T﻿he home page here mentions "Code, Sports, Music, and Texas style BBQ". Let's discuss these things, in that order.
 
 ## C﻿ode
 
-I﻿ got my first taste for programming in high school (1995) writing True BASIC code on Windows 95. It looked something like this:
+My introduction to the world of computer programming dates back to my high school days in 1995. I can still recall my first foray into the realm of True BASIC code on the now-nostalgic Windows 95 platform. It looked something like this:
 
 ![True Basic code](../uploads/truebasic.png "True Basic code")
 
-At the time I think if we had been asked to write a Bubble Sort routine most of our brains would have melted. Even though I wasn't very good at writing code back then, I still found it interesting and so I dorked around on my PC at home with QBasic on Windows 95, and the following year took another programming class, this time writing code with Borland's Turbo Pascal 4.0. We made stuff like an address book, and learned basic data structures.
+Back then, the prospect of crafting a Bubble Sort routine seemed as daunting as trying to decipher a foreign language, but my fascination with the subject persevered. Despite my initial struggles, I couldn't help but be captivated by the world of programming. I'd spend countless hours tinkering on my home PC with QBasic on Windows 95. The following year, I enrolled in another programming class, this time delving into code using Borland's Turbo Pascal 4.0. We ventured into creating applications like an address book and honed our understanding of basic data structures
 
 ![Turbo Pascal code](../uploads/turbopascal.png "Turbo Pascal code")
 
-R﻿ight after high school I was fortunate enough to take a job working for an uncle of mine doing Visual Basic programming and got to learn some neat stuff using Visual Basic 5. I didn't realize it at the time, but gaining computer skills (especially programming) was going to be pretty valuable, and something I could teach myself. Flash forward 25 years, and I'm now a senior full stack software engineer that does web, mobile, cloud, database, and all kinds of apps with different platforms and languages. It's been challenging and always keep me learning, which is something I enjoy.
+Shortly after high school, I was fortunate to accept an invitation to try a programming job working for an uncle who was involved in Visual Basic programming. This experience opened my eyes to the fascinating possibilities of software development. Little did I know that acquiring computer skills, especially programming, would prove to be an invaluable asset that I could master on my own. 
+
+Fast forward 25 years, and I find myself as a seasoned senior full-stack software engineer. My journey has led me to explore a wide spectrum of technologies, including web, mobile, cloud, and database development, across various platforms and languages. The dynamic nature of this field keeps me continually engaged and eager to expand my knowledge, a challenge that I relish.
 
 ## S﻿ports
 
