@@ -350,18 +350,21 @@ header h1.title {
 }
 
 .meta, #post-nav p {
-    color: #595959;
+    color: #E1E1E1;
     letter-spacing: 0.1em;
     margin: 0;
     text-transform: uppercase
 }
 
 .post-info {
-    border-radius: 1em;
     padding-right: 0.5em;
     display: inline-flex;
+}
+
+#page-content header div.post-info {
     background-color: #E1E1E1;
     padding:2px 10px;
+    border-radius: 1em;
 }
 
 .post-info a {
