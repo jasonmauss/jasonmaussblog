@@ -379,7 +379,7 @@ p.meta-comment-count a {
 }
 
 #page-content header div.post-info {
-    background-color: #E1E1E1;
+    background: linear-gradient(90deg, #D8B5FF  0%, #1EAE98 100%);
     padding:2px 10px;
     border-radius: 1em;
 }
