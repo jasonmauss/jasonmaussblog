@@ -1436,7 +1436,7 @@ a.word {
 
 
 li.active {
-    background-color: #FFFF00;
+    background: linear-gradient(270deg, #FFC371 0%, #FF5F6D 100%);
 }
 
 li.active a {
