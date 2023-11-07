@@ -3,4 +3,8 @@
     <p class="meta">
       {{ date | date: "%B %-d, %Y" }}
     </p>
+    <!-- adding custom comment count element -->
+    <p class="meta-comment-count">
+      <a href="{{include.post.url}}#disqus_thread"></a>
+    </p>
 </div>
