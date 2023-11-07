@@ -358,7 +358,22 @@ header h1.title {
 
 .post-info {
     padding-right: 0.5em;
-    display: inline-flex;
+    display: flex;
+    justify-content: space-between;
+}
+
+p.meta-comment-count {
+    margin-bottom: 0;
+}
+
+p.meta-comment-count a,
+p.meta-comment-count a:hover{
+    color: #E1E1E1;
+}
+
+p.meta-comment-count a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
 }
 
 #page-content header div.post-info {
