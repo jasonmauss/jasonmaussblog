@@ -357,7 +357,6 @@ header h1.title {
 }
 
 .post-info {
-    padding-right: 0.5em;
     display: flex;
     justify-content: space-between;
 }
@@ -366,8 +365,8 @@ p.meta-comment-count {
     margin-bottom: 0;
 }
 
-p.meta-comment-count a,
-p.meta-comment-count a:hover{
+.posts .post-teaser p.meta-comment-count a,
+.posts .post-teaser p.meta-comment-count a:hover{
     color: #E1E1E1;
 }
 
