@@ -363,10 +363,13 @@ header h1.title {
 
 p.meta-comment-count {
     margin-bottom: 0;
+    margin-left:20px;
 }
 
 .posts .post-teaser p.meta-comment-count a,
-.posts .post-teaser p.meta-comment-count a:hover{
+.posts .post-teaser p.meta-comment-count a:hover,
+article header div.post-info p.meta-comment-count a,
+article header div.post-info p.meta-comment-count a:hover{
     color: #E1E1E1;
 }
 
