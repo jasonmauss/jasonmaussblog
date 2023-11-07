@@ -78,7 +78,8 @@ blockquote {
 
 .caption {
   font-size: 0.9em;
-  color: #308fb0;
+  color: #E1E1E1;
+  font-style: italic;
 }
 
 /* change the first paragraph in a blog post */
