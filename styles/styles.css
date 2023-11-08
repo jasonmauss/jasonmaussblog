@@ -1293,8 +1293,8 @@ figure.highlight > pre, figure.highlight pre.highlight {
 code.highlighter-rouge {
     padding: 0.2em 0.4em;
     font-size: .75em;
-    background-color: rgba(38, 50, 56, 0.15);
-    color: #E1E1E1;
+    background-color: #C1C1C1; /* custom color */
+    color: #1E1E1E; /* custom color */
     border-radius: 2px;
     font-family: Monaco, Consolas, "Lucida Console", monospace
 }

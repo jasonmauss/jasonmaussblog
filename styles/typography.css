@@ -74,10 +74,10 @@ a {
   text-decoration: none;
 }
 
+/* custom class */
 blockquote {
   font-size: .9em;
-  width: 60%;
-  margin: 50px auto;
+  margin: 20px auto;
   font-style: italic;
   color: #555555;
   padding: 1.2em 30px 1.2em 75px;
@@ -87,15 +87,31 @@ blockquote {
   background: #EDEDED;
 }
 
-/* CSS customization added */
-blockquote::before {
-  content: "\201C";
+/* custom class */
+blockquote p {
+  color: #555555;
+}
+
+blockquote::before,
+blockquote::after {
   color: #FFA07A;
   font-size: 4em;
   position: absolute;
+  font-family: Arial, sans-serif;
+}
+
+/* CSS customization added */
+blockquote::before {
+  content: "\201C";
   left: 10px;
   top: -10px;
-  font-family: Arial, sans-serif;
+}
+
+/* custom css class */
+blockquote::after {
+  content: "\201D";
+  right:10px;
+  bottom:10px;
 }
 
 /* custom css class */
