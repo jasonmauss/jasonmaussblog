@@ -75,11 +75,36 @@ a {
 }
 
 blockquote {
-  border-left: 2px solid #9fd2e3;
-  margin: 1em 1em;
-  padding: 0.75em 1em;
-  background-color: #eef7fa;
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  font-size: .9em;
+  width: 60%;
+  margin: 50px auto;
+  font-style: italic;
+  color: #555555;
+  padding: 1.2em 30px 1.2em 75px;
+  border-left: 8px solid #FFA07A;
+  line-height: 1.6;
+  position: relative;
+  background: #EDEDED;
+}
+
+/* CSS customization added */
+blockquote::before {
+  content: "\201C";
+  color: #FFA07A;
+  font-size: 4em;
+  position: absolute;
+  left: 10px;
+  top: -10px;
+  font-family: Arial, sans-serif;
+}
+
+/* custom css class */
+blockquote span {
+  display: block;
+  color: #333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top: 1em;
 }
 
 .caption {
