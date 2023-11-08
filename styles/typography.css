@@ -109,9 +109,9 @@ blockquote::before {
 
 /* custom css class */
 blockquote::after {
-  content: "\201D";
+  content: "\201E";
   right:10px;
-  bottom:10px;
+  bottom:-10px;
 }
 
 /* custom css class */
