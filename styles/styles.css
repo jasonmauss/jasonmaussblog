@@ -268,9 +268,16 @@ article, .comments, .feature-image .post-content, .feature-image footer,
 
 .button-link:hover, a.button:hover {
     background: linear-gradient(270deg, #FFC371 0%, #FF5F6D 100%);
-    border: 1px solid #337ab7;
+    border: 1px solid #FFA07A;
     color: #1E1E1E;
     text-decoration: none
+}
+
+.button-link:hover p,
+.button-link:hover p i,
+a.button:hover p,
+a.button:hover p i {
+    color:#1E1E1E;
 }
 
 .body-link:hover, article a:hover, .posts .post-teaser p a:hover {
