@@ -74,6 +74,12 @@ a {
   text-decoration: none;
 }
 
+#page-content .post-content p a {
+  color: #FFA07A;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 /* custom class */
 blockquote {
   font-size: .9em;
