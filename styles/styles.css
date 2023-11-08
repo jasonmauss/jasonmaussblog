@@ -588,7 +588,9 @@ max-height: 100%;
 }
 
 .tag-anchor a {
-    color: #337ab7;
+    color: #E1E1E1;
+    font-size: 1.4em;
+    font-family: 'Outfit', "Trebuchet MS", Helvetica, Arial, sans-serif;
 }
 
 h3.tag-anchor {
@@ -603,7 +605,10 @@ h3.tag-anchor i {
   visibility: hidden;
 }
 
-
+.tag-title div.meta {
+    font-family: 'Outfit', sans-serif;
+    font-size: .9em;
+}
 
 .tag-anchor a:hover {
     text-decoration: none
@@ -620,7 +625,9 @@ h3.tag-anchor i {
 }
 
 .tag-posts .tag-title a {
-    margin-left: 3%
+    margin-left: 3%;
+    color: #E1E1E1;
+    font-family: 'Outfit', "Trebuchet MS", Helvetica, Arial, sans-serif;
 }
 
 .tag-posts .meta, .tag-posts #post-nav p, #post-nav .tag-posts p {
