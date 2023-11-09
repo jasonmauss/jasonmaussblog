@@ -11,4 +11,7 @@ favicon: ../uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
 upzoom: true
-items: []
+items:
+  - name: Resume
+    siteurl: https://jasonmauss.com/uploads/Jason Mauss Resume.pdf
+    tab: true
