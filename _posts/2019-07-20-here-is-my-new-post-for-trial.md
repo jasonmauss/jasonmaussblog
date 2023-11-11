@@ -6,9 +6,9 @@ image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
 caption: Cobbles
 comments: true
 tags:
-  - Photography
-  - Buildings
-  - Landscape
+  - Personal
+  - Life
+  - Music
 ---
 **Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
 
