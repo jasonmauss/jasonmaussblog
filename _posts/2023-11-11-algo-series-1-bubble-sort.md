@@ -11,7 +11,7 @@ tags:
   - Programming
   - Sorting
 ---
-*This post is the first in a series about well-known programming algorithms. To see more posts on this topic, check out the Algorithms tag.*
+<span>*This post is the first in a series about well-known programming algorithms. To see more posts on this topic, check out the Algorithms tag.*</span>
 
 ### Introduction
 
