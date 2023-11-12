@@ -11,7 +11,7 @@ tags:
   - Programming
   - Sorting
 ---
-*This post is the first in a series about well-known programming algorithms. To see more posts on this topic, check out the Algorithms tag. The source code for this post and every algorithm post can be found at my [Algorithms GitHub repo here](https://github.com/jasonmauss/Algorithms/tree/main/BubbleSort).*
+*This post is the first in a series about well-known programming algorithms. To see more posts on this topic, check out the [Algorithms tag](https://jasonmauss.com/tags/#Algorithms). The source code for this post and every algorithm post can be found at my [Algorithms GitHub repo here](https://github.com/jasonmauss/Algorithms/tree/main/BubbleSort).*
 
 ### Introduction
 
