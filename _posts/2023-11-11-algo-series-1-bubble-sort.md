@@ -11,7 +11,7 @@ tags:
   - Programming
   - Sorting
 ---
-<span>*This post is the first in a series about well-known programming algorithms. To see more posts on this topic, check out the Algorithms tag.*</span>
+*This post is the first in a series about well-known programming algorithms. To see more posts on this topic, check out the Algorithms tag.*
 
 ### Introduction
 
@@ -57,7 +57,7 @@ Keep in mind that the bubble sort function is going to modify the input array in
 
 Let's keep the tests fairly simple for the purposes of this exercise. The five tests that cover our main concerns are
 
-1.  Distinct values
+1. Distinct values
 2. Some repeated values
 3. Negative values
 4. A mix of positive and negative values
@@ -109,4 +109,59 @@ const bubbleSort = (inputArray) => {
 };
 ```
 
-Next,
+Next, we need to create another for loop inside the first one, in which the comparison of values will happen. However, the loop condition for this inner loop will be different, since we only need to inspect values that we haven't already swapped, and since the current element plus the next element are always compared, that means we compare two elements at a time. So the last will be inspected when we reach the second to last element. So we can subtract 1 from the inner loop condition also. Here's what the code looks like when adding the inner loop:
+
+```javascript
+const bubbleSort = (inputArray) => {
+  
+  const elementCount = inputArray.length;
+  
+  for(let i = 0; i < elementCount; i++) {
+    for(let j = 0; j < elementCount - 1 - i; j++) {
+      
+  }
+};
+```
+
+We're now most of the way done with our function, believe it or not. The last part is just the body of the inner for loop, which compares the current element with the next one, and swaps them if they are out of order. Here's what that looks like, which completes our function:
+
+```javascript
+const bubbleSort = (inputArray) => {
+  
+  const elementCount = inputArray.length;
+  
+  for(let i = 0; i < elementCount; i++) {
+    for(let j = 0; j < elementCount - 1 - i; j++) {
+      if(inputArray[j] > inputArray[j + 1]) {
+        const valueHolder = inputArray[j];
+        inputArray[j] = inputArray[j + 1];
+        inputArray[j + 1] = valueHolder;
+      }
+  }
+};
+```
+
+Now that our function is finished, we should be able to run it with the unit tests and observe the output we get from the console logging. The output from the unit tests shown above should result in something that looks like this:
+
+```json
+[ 1, 2, 3, 4, 5, 6 ]
+[ 1, 2, 2, 3, 3, 4 ]
+[ -9, -6, -5, -3, -2, -1 ]
+[
+  -5, -4, -3, -1, 1,
+   2,  4,  7,  8
+]
+[
+  'a', 'b', 'c',
+  'd', 'e', 'f',
+  'g'
+]
+```
+
+That's it!
+
+### Wrapping Up
+
+As I mentioned, bubble sort is a very simple algorithm. In other posts, I will explore other algorithms that gradually get more complex. So stay tuned, and have a look around the site to see what else I've written about.
+
+If you have any questions please feel free to contact me at the social media links found in the footer on this site.
