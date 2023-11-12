@@ -4,21 +4,7 @@
         <li>
             <span class="share-button-text">Share this on:</span>
         </li>
-        {% if site.data.share_buttons.linkedin %}
-        <li>
-            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}&summary={{ page.description }}&source={{ site.title }}" target="_blank" title="{{ site.str_share_on }} LinkedIn">
-			<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
-			<span class="sr-only">{{ site.str_share_on }} LinkedIn</span>
-		</a>
-        </li>
-        {% endif %} {% if site.data.share_buttons.facebook %}
-        <li>
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" title="{{ site.str_share_on }} Facebook">
-			<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
-			<span class="sr-only">{{ site.str_share_on }} Facebook</span>
-		</a>
-        </li>
-        {% endif %} {% if site.data.share_buttons.twitter %}
+        {% if site.data.share_buttons.twitter %}
         <li>
             <a href="https://twitter.com/intent/tweet?source={{ page.url | absolute_url }}&text={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}:%20{{ page.url | absolute_url }}" target="_blank" title="{{ site.str_tweet }}">
 			<i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
@@ -42,10 +28,16 @@
         {% endif %} {% if site.data.share_buttons.linkedin %}
         <li>
             <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}%20%7C%20{{ site.title | url_encode }}&summary=&source={{ page.url | absolute_url }}" target="_blank" title="{{ site.str_share_on }} LinkedIn">
-			<i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+			<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
 			<span class="sr-only">{{ site.str_share_on }} LinkedIn</span>
 		</a>
         </li>
-        {% endif %}
+        {% endif %} {% if site.data.share_buttons.facebook %}
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" title="{{ site.str_share_on }} Facebook">
+			<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_share_on }} Facebook</span>
+		</a>
+        </li>
     </ul>
 </div>
