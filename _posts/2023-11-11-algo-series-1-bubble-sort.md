@@ -96,7 +96,7 @@ console.log(charValuesArray); // expected ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 
 ### Back to the code
 
-Now that we have our tests ready, let's get back to writing the bubble sort function itself. We are going to need to reference the length of input array more than once, so let's start by capturing that value into a constant for later use. Then, we need to create a for loop that has the iterator (i) starting at the position of the first element in the array, and goes until it reaches the last element. This first for loop will actually be the *outer loop* as you will see shortly. So far our function looks like this:
+Now that we have our tests ready, let's get back to writing the bubble sort function itself. We are going to need to reference the length of the input array more than once, so let's start by capturing that value into a constant for later use. Then, we need to create a for loop that has the iterator (i) starting at the position of the first element in the array, and goes until it reaches the last element. This first for loop will actually be the *outer loop* as you will see shortly. So far our function looks like this:
 
 ```javascript
 const bubbleSort = (inputArray) => {
@@ -109,7 +109,7 @@ const bubbleSort = (inputArray) => {
 };
 ```
 
-Next, we need to create another for loop inside the first one, in which the comparison of values will happen. However, the loop condition for this inner loop will be different, since we only need to inspect values that we haven't already swapped, and since the current element plus the next element are always compared, that means we compare two elements at a time. So the last will be inspected when we reach the second to last element. So we can subtract 1 from the inner loop condition also. Here's what the code looks like when adding the inner loop:
+Next, we need to create another for loop inside the first one, in which the comparison of values will happen. However, the loop condition for this inner loop will be different, since we only need to inspect values that we haven't already swapped, and since the current element plus the next element are always compared, that means we compare two elements at a time. So the last element will be inspected when we reach the second to last element. So we can subtract 1 from the inner loop condition also. Here's what the code looks like when adding the inner loop:
 
 ```javascript
 const bubbleSort = (inputArray) => {
@@ -141,7 +141,7 @@ const bubbleSort = (inputArray) => {
 };
 ```
 
-Now that our function is finished, we should be able to run it with the unit tests and observe the output we get from the console logging. On my machine, I ran the command `node bubblesort.js` from the VSCode terminal, but your terminal command might be different. The output from the unit tests shown above should result in something that looks like this:
+Now that our function is complete, we should be able to run it with the unit tests and observe the output we get from the console logging. On my machine, I ran the command `node bubblesort.js` from the VSCode terminal, but your terminal command might be different. The output from the unit tests shown above should result in something that looks like this:
 
 ```json
 [ 1, 2, 3, 4, 5, 6 ]
