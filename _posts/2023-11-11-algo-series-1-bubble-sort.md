@@ -33,7 +33,7 @@ becomes this
 
 after sorted using the bubble sort algorithm. If you're a visual learner, here's a simple animation of what changes the array is undergoing while bubble sort manipulates it.
 
-![](../uploads/bubble-sort-example-300px.gif "By Swfung8 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14953478")
+![Visual representation of the bubble sort algorithm](../uploads/bubble-sort-example-300px.gif "By Swfung8 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14953478")
 
 ### The Code (JavaScript)
 
