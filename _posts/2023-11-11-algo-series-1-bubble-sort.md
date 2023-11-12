@@ -141,7 +141,7 @@ const bubbleSort = (inputArray) => {
 };
 ```
 
-Now that our function is finished, we should be able to run it with the unit tests and observe the output we get from the console logging. I just ran the command `node bubblesort.js` from the VSCode terminal, but your terminal command might be different. The output from the unit tests shown above should result in something that looks like this:
+Now that our function is finished, we should be able to run it with the unit tests and observe the output we get from the console logging. On my machine, I ran the command `node bubblesort.js` from the VSCode terminal, but your terminal command might be different. The output from the unit tests shown above should result in something that looks like this:
 
 ```json
 [ 1, 2, 3, 4, 5, 6 ]
