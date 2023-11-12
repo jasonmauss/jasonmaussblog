@@ -1,7 +1,17 @@
 <div class="share-buttons">
     <ul class="share-buttons">
         <!-- <div class="meta">Share</div> -->
-        {% if site.data.share_buttons.facebook %}
+        <li>
+            <span class="share-button-text">Share this on:</span>
+        </li>
+        {% if site.data.share_buttons.linkedin %}
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ page.title | url_encode }}&summary={{ page.description }}&source={{ site.title }}" target="_blank" title="{{ site.str_share_on }} LinkedIn">
+			<i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i>
+			<span class="sr-only">{{ site.str_share_on }} LinkedIn</span>
+		</a>
+        </li>
+        {% endif %} {% if site.data.share_buttons.facebook %}
         <li>
             <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" title="{{ site.str_share_on }} Facebook">
 			<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>

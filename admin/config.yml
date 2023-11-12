@@ -425,6 +425,10 @@ collections:
             name: "twitter"
             widget: "boolean"
             required: false
+          - label: "Share on LinkedIn"
+            name: "linkedin"
+            widget: "boolean"
+            required: false
           - label: "Share to Instagram"
             name: "instagram"
             widget: "boolean"

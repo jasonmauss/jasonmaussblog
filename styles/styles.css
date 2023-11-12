@@ -1015,6 +1015,15 @@ ul.share-buttons {
     text-align: center
 }
 
+/* custom added class */
+ul.share-buttons li span.share-button-text {
+    color: #E1E1E1;
+    line-height: 20px;
+    vertical-align: super;
+    font-size: 1.1em;
+    margin-right: 10px;
+}
+
 ul.share-buttons div.meta {
     display: inline;
     margin-right: 0.5em
