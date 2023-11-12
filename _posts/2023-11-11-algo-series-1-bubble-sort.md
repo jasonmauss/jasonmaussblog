@@ -95,3 +95,18 @@ console.log(charValuesArray); // expected ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 ```
 
 ### Back to the code
+
+Now that we have our tests ready, let's get back to writing the bubble sort function itself. We are going to need to reference the length of input array more than once, so let's start by capturing that value into a constant for later use. Then, we need to create a for loop that has the iterator (i) starting at the position of the first element in the array, and goes until it reaches the last element. This first for loop will actually be the *outer loop* as you will see shortly. So far our function looks like this:
+
+```javascript
+const bubbleSort = (inputArray) => {
+  
+  const elementCount = inputArray.length;
+  
+  for(let i = 0; i < elementCount; i++) {
+    
+  }
+};
+```
+
+Next,
