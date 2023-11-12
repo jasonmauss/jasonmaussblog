@@ -139,6 +139,7 @@ blockquote span {
 .post-content p:first-child,
 .post-content p {
   font-size: 1em;
+  text-align: justify;
 }
 
 /* custom style added, prefer Outfit font for headings, not Lobster */
