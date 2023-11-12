@@ -348,6 +348,7 @@ collections:
                 "Montserrat",
                 "Libre Baskerville",
                 "Lobster",
+                "Outfit",
               ]
             default: ["Roboto Slab"]
             hint: "You can choose any of these for the headings; Bevan is a display font."
