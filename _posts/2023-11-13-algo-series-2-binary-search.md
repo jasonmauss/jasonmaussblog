@@ -12,3 +12,33 @@ tags:
   - Searching
 ---
 *This post is part of a series of several posts about well-known programming algorithms. To see more posts on this topic, check out the [Algorithms tag](https://jasonmauss.com/tags/#Algorithms). The source code for this post and every algorithm post can be found at my [Algorithms GitHub repo here](https://github.com/jasonmauss/Algorithms/tree/main/BinarySearch).*
+
+### Introduction
+
+Despite what the name might imply, the binary search algorithm is not a method for searching through ones and zeros. The algorithm gets it's name due to the "one or the other" nature of how it narrows down the possible items to search, eliminating roughly half of the remaining values each time through it's loop. To view an implementation of binary search in .NET, you can look [here](https://github.com/microsoft/referencesource/blob/master/mscorlib/system/array.cs). Binary search is around line 900 of that file.
+
+### Purpose
+
+The purpose behind binary search is quite simple. For finite, sorted arrays binary search will find the position in the array for the given value to search for. Some quick examples:
+
+If your array had values like this
+
+`[1, 2, 3, 4, 5, 6, 7, 8, 9]`
+
+and you called binary search, passing a value of 6, it would give you the position of 6 in the array, which is 7, for a zero-based index.
+
+Another example with not so clean linear values could be:
+
+`[4, 10, 17, 22, 41, 50, 77, 102, 133, 196]`
+
+where if you called binary search on it with the value of 50, you would get a return value of 5 for a zero-based index. Here's a visual representation of how binary search goes about finding the index of the value it is searching for:
+
+![By Mazen Embaby - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124018514](../uploads/binary-search-work.gif "Binary Search Visualization")
+
+### The Code (JavaScript)
+
+The three key components to implementing the binary search algorithm are:
+
+1. A "left" value (some call this "start") that represents the smallest, or. "left most" value in the array to begin searching at.
+2. A "right" value (some call this "end" or "finish") that represents the largest, or "right most" value in the array to stop searching at.
+3. A "middle" value that represents the middle point between left and right. This middle value is typically obtained by taking the floor value of left + right and dividing it by two.
