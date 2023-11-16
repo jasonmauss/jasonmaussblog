@@ -59,7 +59,7 @@ const binarySearch = (inputValuesArray, valueToFind) => {
 };
 ```
 
-Now, before we go any further, I want to discuss the unit tests we want to write for this function. There are mostly positive tests to write, but I also think this function should have some negative tests too - where the value we are trying to find doesn't exist, so we can account for that also. We also want to have at least one test where the array contains duplicates of the value we are searching for.
+Now, before we go any further, I want to discuss the unit tests we want to write for this function. There are mostly positive tests to write, but I also think this function should have a negative test too - where the value we are trying to find doesn't exist, so we can account for that also and return -1. We also want to have at least one test where the array contains duplicates of the value we are searching for.
 
 ### Tests
 
