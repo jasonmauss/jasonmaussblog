@@ -64,3 +64,25 @@ Now, before we go any further, I want to discuss the unit tests we want to write
 ### Tests
 
 Here's the code we can write for our tests. While there are some great unit testing frameworks for JavaScript, I'm just going to keep it simple and write unit test results to the console directly.
+
+```javascript
+// unit tests
+
+const searchArraySequential = [1, 2, 3, 4, 5, 6, 7];
+console.log(binarySearch(searchArraySequential, 4)); // expected: 3
+
+const searchArrayDuplicates = [1, 2, 3, 4, 4, 5, 6, 7];
+console.log(binarySearch(searchArrayDuplicates, 4)); // expected: 3 or 4
+
+const searchArraySkippedNumbers = [4, 10, 17, 22, 41, 50, 77, 102, 133, 196];
+console.log(binarySearch(searchArraySkippedNumbers, 50)); // expected: 5
+
+const searchArrayValueDoesntExist = [10, 25, 32, 49, 55, 61, 70];
+console.log(binarySearch(searchArrayValueDoesntExist, 42)); // expected: -1
+```
+
+This is not an exhaustive test for the standard binary search algorithm, but it should at least get you thinking about what to expect from the function's behavior. You could also add tests for things like searching unsorted arrays, or where the value appears first in the array, or appears last in the array just to test certain boundary conditions. But we're going to keep it simple with these tests and focus on the algorithm and finish writing the function now.
+
+### Back to the code
+
+Let's pick up where we left off and start writing the code that compares the current middle position's value to the value we're searching for, and adjusts the left or right position accordingly.
