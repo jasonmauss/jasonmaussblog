@@ -33,7 +33,7 @@ Another example with not so clean linear values could be:
 
 where if you called binary search on it with the value of 50, you would get a return value of 5 for a zero-based index. Here's a visual representation of how binary search goes about finding the index of the value it is searching for:
 
-![By Mazen Embaby - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124018514](../uploads/binary-search-work.gif "Binary Search Visualization")
+![Binary Search Visualization](../uploads/binary-search-work.gif "By Mazen Embaby - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=124018514")
 
 ### The Code (JavaScript)
 
