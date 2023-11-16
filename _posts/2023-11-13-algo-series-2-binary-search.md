@@ -39,6 +39,28 @@ where if you called binary search on it with the value of 50, you would get a re
 
 The three key components to implementing the binary search algorithm are:
 
-1. A "left" value (some call this "start") that represents the smallest, or. "left most" value in the array to begin searching at.
-2. A "right" value (some call this "end" or "finish") that represents the largest, or "right most" value in the array to stop searching at.
-3. A "middle" value that represents the middle point between left and right. This middle value is typically obtained by taking the floor value of left + right and dividing it by two.
+1. A "left" value (some call this "start") that represents the smallest, or "left most" position in the array to begin searching at.
+2. A "right" value (some call this "end" or "finish") that represents the largest, or "right most" position in the array to stop searching at.
+3. A "middle" value that represents the middle point between left and right positions. This middle value is typically obtained by taking the floor value of left + right and dividing it by two.
+
+Knowing these three components, let's begin writing our binary search code. Here is the beginning, just establishing what we need to create and keep track of inside the while loop that will do the searching.
+
+```javascript
+const binarySearch = (inputValuesArray, valueToFind) => {
+
+    let leftPosition = 0;
+    let rightPosition = inputValuesArray.length - 1;
+
+    while(leftPosition <= rightPosition) {
+        let middlePosition = Math.floor((leftPosition + rightPosition) / 2);
+
+    }
+
+};
+```
+
+Now, before we go any further, I want to discuss the unit tests we want to write for this function. There are mostly positive tests to write, but I also think this function should have some negative tests too - where the value we are trying to find doesn't exist, so we can account for that also. We also want to have at least one test where the array contains duplicates of the value we are searching for.
+
+### Tests
+
+Here's the code we can write for our tests. While there are some great unit testing frameworks for JavaScript, I'm just going to keep it simple and write unit test results to the console directly.
