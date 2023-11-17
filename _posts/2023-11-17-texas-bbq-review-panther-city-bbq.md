@@ -6,6 +6,11 @@ image: ../uploads/bbqu-header.jpg
 title_color: "#ffffff"
 caption: If this doesn't make your mouth water, I assume you're a vegetarian.
 comments: true
+tags:
+  - Fort Worth BBQ
+  - Brisket
+  - Sausage
+  - Pork Ribs
 ---
 First established in 2014, [Panther City BBQ](https://www.panthercitybbq.com) has been serving up top quality Texas style BBQ for nearly a decade now. Located in the southern part of Fort Worth, Texas, the quality of their food hit my nose the second I got out of the car about 50 feet away from their giant outdoor offset smokers. The blend of oak and hickory smoke fills the air all around their restaurant and the scents get even better once you're inside the doors. Although if you don't want to spend too much time in line outside, I recommend you get there outside of the lunch or dinner rush times. I got there around 11:30 and the line was almost already at the door.
 
