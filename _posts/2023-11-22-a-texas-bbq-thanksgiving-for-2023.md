@@ -2,6 +2,7 @@
 layout: post
 title: A Texas BBQ Thanksgiving for 2023
 date: 2023-11-22T06:22:00.749Z
+image: ../uploads/texasbbq.jpg
 title_color: "#ffffff"
 caption: If only I could have had someone cook this all for me while I relaxed.
 comments: true
