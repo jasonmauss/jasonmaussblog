@@ -37,6 +37,6 @@ Some other items that made the menu that I didn't have to prepare
 
 Some of these dishes don't take that long at all to prepare, while others (like some of the meats) take an entire day - at least with the way I do them. So I had to plan out a schedule in advance. Two of my kids had accepted invites to their partner's Thanksgiving dinners also, so we planned to eat around noon in order to have plenty of time to both eat and play a few games before they had to hit the road to attend their "Round Two" gatherings.
 
-### Jesse, it's time to cook. 
+### Jesse, it's time to cook.
 
 Brisket went on first since it needs a long time to cook, plus I can easily hot hold it for a long time in the oven. While the brisket was going I made the hog sauce and the mustard BBQ sauce. Once the smoker was available the pork butt for the pulled pork went in. I set the smoker to 300 degrees, and put it in to cook around 11 pm, setting an alarm to get up and check on it around 4 am. Then I prepared the ribs to be tossed on early in the morning around 5 am. The sausages would go on last around 9am because they really only need a couple hours or so to cook.
