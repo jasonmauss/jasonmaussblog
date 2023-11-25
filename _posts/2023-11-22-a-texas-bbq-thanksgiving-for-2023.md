@@ -40,3 +40,9 @@ Some of these dishes don't take that long at all to prepare, while others (like 
 ### Jesse, it's time to cook.
 
 Brisket went on first since it needs a long time to cook, plus I can easily hot hold it for a long time in the oven. While the brisket was going I made the hog sauce and the mustard BBQ sauce. Once the smoker was available the pork butt for the pulled pork went in. I set the smoker to 300 degrees, and put it in to cook around 11 pm, setting an alarm to get up and check on it around 4 am. Then I prepared the ribs to be tossed on early in the morning around 5 am. The sausages would go on last around 9am because they really only need a couple hours or so to cook.
+
+
+
+### The Cinnamon Roll Banana Pudding
+
+I got this idea from a BBQ restaurant in Fort Worth that I had the banana pudding at. I don't think they actually used cinnamon roll dough (probably just something like short cake) but at first I thought it was cinnamon roll dough which is what sparked the idea. You could definitely use short cake or maybe bundt cake if you're not a big cinnamon roll fan like I am. This turned out pretty delicious though. All I had to do for this was buy a tube of the Pillsbury "Grands" cinnamon rolls (if you're feeling ambitious make your own cinnamon rolls). After they came out of the oven I put them on a cooling rack then eventually into a Ziplock bag to stay fresh. I cut off the top of the roll to make them flat on top. Then I added the banana pudding to cover the top, sliced some fresh banana coins on to the pudding, then covered that with a nilla wafer + honey graham cracker crumble (plus melted better) that I made in a food processor and some (optionaly) whipped cream. I wasn't the only one who found this to taste great, thankfully!
