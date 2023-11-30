@@ -36,3 +36,38 @@ const InsertionSort = (unsortedArray) => {
     }
 };
 ```
+
+Tests
+
+We don't need a particularly large number of tests for the purposes of testing this code. I'm going to go with three tests:
+
+* Sequential numbers out of order
+* Sequential numbers out of order that contain negative numbers
+* Non-sequential numbers out of order that contain duplicate values
+
+Here's the code for ours tests
+
+```javascript
+// unit tests
+
+// Sequential numbers out of order
+const array1 = [5,2,7,4,3,1,6];
+InsertionSort(array1);
+console.log(array1); // [1,2,3,4,5,6,7]
+
+// Sequential numbers out of order that contain negative numbers
+const array2 = [-1,-2,4,0,3,5,2,1];
+InsertionSort(array2);
+console.log(array2); // [-2,-1,0,1,2,3,4,5]
+
+// Non-sequential numbers out of order that contain duplicate values
+const array3 = [61,25,10,55,49,32,70,61];
+InsertionSort(array3);
+console.log(array3); // [10,25,32,49,55,61,61,70]
+```
+
+After I've completed all of the posts about sorting algorithms, I think I'll revisit them with a post where we performance test them all against each other and find the sweet spot where each one performs best.
+
+### Back to the code
+
+Now that we have our tests ready, it's time to complete writing the function.
