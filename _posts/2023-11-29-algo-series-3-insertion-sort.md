@@ -81,7 +81,7 @@ const InsertionSort = (unsortedArray) => {
         // at that position needs to be compared to the item in the position before it
         let j = i;
         // keep looping as long as we are not at the first position (j > 0)
-        // and as long as the item before position j is great than the item at
+        // and as long as the item before position j is greater than the item at
         // position j
         while(j > 0 && unsortedArray[j - 1] > unsortedArray[j]) {
           // swap the items at positions j and j - 1
