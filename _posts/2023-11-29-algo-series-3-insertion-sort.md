@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algo Series #3 - Insertion Sort"
-date: 2023-11-29T05:01:00.499Z
+date: 2023-12-01T07:53:08.657Z
 image: ../uploads/insertionsort.webp
 title_color: "#ffffff"
 caption: The original Mario Bros is still the best. Fight me.
@@ -121,8 +121,45 @@ As it stands now, the function above will work, and all the tests will pass. How
 [2,4,5,7,3,1,6]
 ```
 
-As you can see, we have an inefficiency to work out of our code. If you'd like to challenge yourself, before reading any further, take the function code above and try to optimize it so that any items being shifted to the left get swapped in one assignment, rather than one position at a time.
+As you can see, we have a slight inefficiency we can work out of our code. If you'd like to challenge yourself, before reading any further, take the function code above and try to optimize it so that any items being shifted to the left get swapped in one assignment, rather than one position at a time. Hint: the inner loop would only perform one assignment each time.
 
-### The Improved Version
+### The Slightly Improved Version
 
-In order to swap the value in one assignment, here's what we can do.
+In order to move the current value into the correct position in one assignment, here's what we can do. The *outer* loop stays the same, with the initialization of `i` to 1, and the outer while loop condition being` i < unsortedArray[i]` . However, once inside the outer loop, that's where things change a bit. I'll provide code comments to explain below.
+
+```javascript
+const InsertionSort = (unsortedArray) => {
+
+    let i = 1;
+    while(i < unsortedArray.length) {
+        // initialize and set temp value outside of the inner loop instead of inside
+        let temp = unsortedArray[i];
+        // initialize j to i - 1, instead of i
+        let j = i - 1;
+        // the inner while loop condition changes from j > 0 to j >= 0 and from
+        // unsortedArray[j - 1] > unsortedArray[j]) to
+        // unsortedArray[j] > temp
+        while(j >= 0 && unsortedArray[j] > temp) {
+            // inside the loop the only swap we perform is to move values
+            // to the right (forward in the array) and decrement the j position
+            unsortedArray[j + 1] = unsortedArray[j];
+            --j;
+        }
+        // perform the assignment one time here, after execution exits the inner loop 
+        unsortedArray[j + 1] = temp;
+        i++;
+    }
+};
+```
+
+You might be wondering why I'm saying this version is ***improved***. To be completely clear, it is a minor improvement, but still an improvement. In the improved version the inner loop (which executes many more times than the outer loop) only makes one assignment each time, swapping the value at `j + 1` with `j`, which just shifts the values to the right or "upwards" making room for the `temp` value to be assigned after the inner loop finishes. The first version of the function on the other hand performed 3 assignments with every execution of the inner loop.
+
+### Recursive Version
+
+There's also a way to write this function utilizing recursion where the recursion basically replaces the outer loop. I will leave it as a challenge to you to see if you can figure it out, but if you want to just view the code, I've placed a copy of it in [my GitHub Algorithms repo](https://github.com/jasonmauss/Algorithms/tree/main). Just look [here](https://github.com/jasonmauss/Algorithms/blob/main/InsertionSort/JavaScript/InsertionSortRecursive.js).
+
+### Wrapping Up
+
+The last thing that might be helpful to understand about insertion sort is, when should you use it? After all, there are general purpose sorting algorithms that are faster, such as merge sort and quick sort. A good rule of thumb on when to use insertion sort is when the list to be sorted contains somewhere between 5 and 50 items. Since the actual performance of sorting algorithms can vary by execution environment and implementation, you might want to benchmark your code to truly see where you get the best performance.
+
+That wraps it up for insertion sort. In future posts, we will discuss other sorting algorithms such as quick sort and merge sort. I'll come back here and link those posts once I've posted them. Stay tuned!
