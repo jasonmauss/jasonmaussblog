@@ -70,4 +70,59 @@ After I've completed all of the posts about sorting algorithms, I think I'll rev
 
 ### Back to the code
 
-Now that we have our tests ready, it's time to complete writing the function.
+Now that we have our tests ready, it's time to complete writing the function. We left off after defining the *outer* loop of the function where we keep iterating until we've reached the end of the items. Next, we need to define an *inner* loop (so this is a nested `while` loop scenario). I'll add comments to the code block here explaining what everything is doing and why.
+
+```javascript
+const InsertionSort = (unsortedArray) => {
+
+    let i = 1;
+    while(i < unsortedArray.length) {
+        // start the inner loop (j) beginning at the first position where the item
+        // at that position needs to be compared to the item in the position before it
+        let j = i;
+        // keep looping as long as we are not at the first position (j > 0)
+        // and as long as the item before position j is great than the item at
+        // position j
+        while(j > 0 && unsortedArray[j - 1] > unsortedArray[j]) {
+          // swap the items at positions j and j - 1
+          let temp = unsortedArray[j];
+          unsortedArray[j] = unsortedArray[j - 1];
+          unsortedArray[j - 1] = temp;
+          // decrease j by 1 in case we need to continue moving the item swapped
+          // to the left further to the left because we haven't encountered a value
+          // that's less than that item yet.
+          --j;
+        }
+        // increase the position to move to the next position in the list
+        i++;
+    }
+};
+```
+
+As it stands now, the function above will work, and all the tests will pass. However, it's not as optimal as it could be. Can you tell what could be improved to make this algorithm more efficient? If you step through the code and examine the results after some iterations of the loops, here's what you would see.
+
+```javascript
+// Here's the first test case, and the array we start with looks like this
+[5,2,7,4,3,1,6]
+
+// After the first iteration, the array becomes this, moving 2 in front of 5
+[2,5,7,4,3,1,6]
+
+// After the second iteration, the array is still the same as above, because 7 is
+// greater than 5 so no items need to be moved
+[2,5,7,4,3,1,6]
+
+// After the third iteration, the array looks like this, with 4 placed in front of 7
+[2,5,4,7,3,1,6]
+
+// But what we really want here, is for 4 to have been placed in front of 5.
+// That *will* happen, but not until the next iteration. How can we modify this code
+// so that after the third iteration our array would look like this?
+[2,4,5,7,3,1,6]
+```
+
+As you can see, we have an inefficiency to work out of our code. If you'd like to challenge yourself, before reading any further, take the function code above and try to optimize it so that any items being shifted to the left get swapped in one assignment, rather than one position at a time.
+
+### The Improved Version
+
+In order to swap the value in one assignment, here's what we can do.
