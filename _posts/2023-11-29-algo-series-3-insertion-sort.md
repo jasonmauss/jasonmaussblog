@@ -37,7 +37,7 @@ const InsertionSort = (unsortedArray) => {
 };
 ```
 
-Tests
+### Tests
 
 We don't need a particularly large number of tests for the purposes of testing this code. I'm going to go with three tests:
 
@@ -125,7 +125,7 @@ As you can see, we have a slight inefficiency we can work out of our code. If yo
 
 ### The Slightly Improved Version
 
-In order to move the current value into the correct position in one assignment, here's what we can do. The *outer* loop stays the same, with the initialization of `i` to 1, and the outer while loop condition being` i < unsortedArray[i]` . However, once inside the outer loop, that's where things change a bit. I'll provide code comments to explain below.
+In order to move the current value into the correct position in one assignment, here's what we can do. The *outer* loop stays the same, with the initialization of `i` to 1, and the outer while loop condition being`i < unsortedArray[i]` . However, once inside the outer loop, that's where things change a bit. I'll provide code comments to explain below.
 
 ```javascript
 const InsertionSort = (unsortedArray) => {
