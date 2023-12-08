@@ -1287,15 +1287,27 @@ optgroup {
     font-weight: bold
 }
 
-table {
+.post-content table {
     border-collapse: collapse;
     border-spacing: 0;
     color: #E1E1E1;
+    display: table;
+    overflow:hidden;
 }
 
-table tr td {
+.post-content table tr td {
     padding:5px;
     font-size:0.9em;
+    border:none;
+}
+
+.post-content table tr:nth-child(odd) {
+    background-color: #3f3f3f;
+}
+
+.post-content table tr:first-child td {
+    font-weight: bold;
+    border-bottom:solid 1px #E1E1E1;
 }
 
 td, th {
