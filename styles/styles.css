@@ -133,7 +133,7 @@ table {
     table-layout: fixed;
     width: 100%;
     word-wrap: break-word;
-    overflow-x: scroll;
+    /* overflow-x: scroll; */
     display: inline-block;
 }
 
@@ -1289,7 +1289,13 @@ optgroup {
 
 table {
     border-collapse: collapse;
-    border-spacing: 0
+    border-spacing: 0;
+    color: #E1E1E1;
+}
+
+table tr td {
+    padding:5px;
+    font-size:0.9em;
 }
 
 td, th {
