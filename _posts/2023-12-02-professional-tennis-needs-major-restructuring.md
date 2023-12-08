@@ -35,12 +35,12 @@ Every major professional sport, whether it's comprised of teams or individuals, 
     <tr>
       <td>Runner-up</td>
       <td>$662,360 (7.5% x 1) </td>
-      <td>$ (% x 1)</td>
+      <td>$704,000 (8% x 1)</td>
     </tr>
     <tr>
       <td>Semifinal</td>
       <td>$352,635 (4% x 2)</td>
-      <td>$ (% x 2)</td>
+      <td>$400,000 (4.5% x 2)</td>
     </tr>
     <tr>
       <td>Quarterfinal</td>
