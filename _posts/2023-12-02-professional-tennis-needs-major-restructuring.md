@@ -37,7 +37,7 @@ For my example, I'm using a decent size professional tennis tournament. Not one 
 
 #### 2023 BNP Paribas Open Men's Singles (Indian Wells)
 
-It's important to keep in mind the percentages as well as how many players get eliminated each round and receive the same payout and what piece of the prize money pie that represents. So I've included it all.
+It's important to keep in mind the percentages as well as how many players get eliminated each round (receiving the same payout) and what percentage of the prize money that round's payout represents. I've included it all in this breakdown to hopefully show how absurdly lopsided the earnings are at the top.
 
 The total prize money available was $8,800,000. A portion of that goes to doubles teams so the total prize money going towards singles competition was **$6,857,990**.
 
