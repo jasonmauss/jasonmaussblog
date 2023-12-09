@@ -92,9 +92,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Quarterfinal</td>
       <td>$184,465</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>2.7 %</td>
+      <td>$737,860</td>
+      <td>10.8 %</td>
       <td>4</td>
       <td></td>
       <td></td>
@@ -103,9 +103,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Round 4</td>
       <td>$96,955</td>
-      <td>$</td>
-      <td></td>
-      <td></td>
+      <td>1.4 %</td>
+      <td>$775,640</td>
+      <td>11.3 %</td>
       <td>8</td>
       <td></td>
       <td></td>
@@ -114,9 +114,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Round 3</td>
       <td>$55,770</td>
-      <td>$</td>
-      <td></td>
-      <td></td>
+      <td>0.8 %</td>
+      <td>$892,320</td>
+      <td>13.0 %</td>
       <td>16</td>
       <td></td>
       <td></td>
@@ -125,9 +125,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Round 2</td>
       <td>$30,885</td>
-      <td>$</td>
-      <td></td>
-      <td></td>
+      <td>0.45 %</td>
+      <td>$988,320</td>
+      <td>14.4 %</td>
       <td>32</td>
       <td></td>
       <td></td>
@@ -136,9 +136,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Round 1</td>
       <td>$18,660</td>
-      <td>$</td>
-      <td></td>
-      <td></td>
+      <td>0.27 %</td>
+      <td>$597,120</td>
+      <td>8.7 %</td>
       <td>32</td>
       <td></td>
       <td></td>
@@ -147,9 +147,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Qualifying Rnd 2</td>
       <td>$9,440</td>
-      <td>$</td>
-      <td></td>
-      <td></td>
+      <td>0.14 %</td>
+      <td>$113,280</td>
+      <td>1.7 %</td>
       <td>12</td>
       <td></td>
       <td></td>
@@ -158,9 +158,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
     <tr>
       <td>Qualifying Rnd 1</td>
       <td>$5,150</td>
-      <td>$</td>
-      <td></td>
-      <td></td>
+      <td>0.076 %</td>
+      <td>$123,600</td>
+      <td>1.8 %</td>
       <td>24</td>
       <td></td>
       <td></td>
