@@ -55,7 +55,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>Total for Result</td>
     </tr>
     <tr>
-      <td>Winner</td>
+      <td>Champion</td>
       <td>$1,262,220</td>
       <td>18.4 %</td>
       <td>$1,262,220</td>
