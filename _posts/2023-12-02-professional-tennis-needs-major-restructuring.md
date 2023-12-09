@@ -48,6 +48,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>Prize Awarded</td>
       <td>Percent of Purse</td>
       <td>Total for Result</td>
+      <td>Result Percent of Purse</td>
       <td>Players Awarded</td>
       <td>My Prize Proposal</td>
       <td>Percent of purse</td>
@@ -55,53 +56,115 @@ The total prize money available was $8,800,000. A portion of that goes to double
     </tr>
     <tr>
       <td>Winner</td>
-      <td>$1,262,220 (14.3% x 1)</td>
-      <td>$880,000 (10% x 1)</td>
+      <td>$1,262,220</td>
+      <td>18.4 %</td>
+      <td>$1,262,220</td>
+      <td>18.4 %</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Runner-up</td>
-      <td>$662,360 (7.5% x 1) </td>
-      <td>$704,000 (8% x 1)</td>
+      <td>$662,360</td>
+      <td>9.7 %</td>
+      <td>$662,360</td>
+      <td>9.7 %</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Semifinal</td>
       <td>$352,635 (4% x 2)</td>
-      <td>$400,000 (4.5% x 2)</td>
+      <td>5.1 %</td>
+      <td>$705,270</td>
+      <td>10.3 %</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Quarterfinal</td>
-      <td>$184,465 (2% x 4)</td>
-      <td>$ (% x 4)</td>
+      <td>$184,465</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>4</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Round 4</td>
-      <td>$96,955 (1.1% x 8)</td>
-      <td>$ (% x 8)</td>
+      <td>$96,955</td>
+      <td>$</td>
+      <td></td>
+      <td></td>
+      <td>8</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Round 3</td>
-      <td>$55,770 (0.6% x 16)</td>
-      <td>$ (% x 16)</td>
+      <td>$55,770</td>
+      <td>$</td>
+      <td></td>
+      <td></td>
+      <td>16</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Round 2</td>
-      <td>$30,885 (0.35% x 32)</td>
-      <td>$ (% x 32)</td>
+      <td>$30,885</td>
+      <td>$</td>
+      <td></td>
+      <td></td>
+      <td>32</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Round 1</td>
-      <td>$18,660 (0.2% x 64)</td>
-      <td>$ (% x 64)</td>
+      <td>$18,660</td>
+      <td>$</td>
+      <td></td>
+      <td></td>
+      <td>32</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Qualifying Rnd 2</td>
-      <td>$9,440 (0.1% x 24)</td>
-      <td>$ (% x 24)</td>
+      <td>$9,440</td>
+      <td>$</td>
+      <td></td>
+      <td></td>
+      <td>12</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Qualifying Rnd 1</td>
-      <td>$5,150 (0.06% x 48)</td>
-      <td>$ (% x 48)</td>
+      <td>$5,150</td>
+      <td>$</td>
+      <td></td>
+      <td></td>
+      <td>24</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
