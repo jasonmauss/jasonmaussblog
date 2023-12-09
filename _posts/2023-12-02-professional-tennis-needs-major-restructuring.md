@@ -51,8 +51,9 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>Result Percent of Purse</td>
       <td>Players Awarded</td>
       <td>My Prize Proposal</td>
-      <td>Percent of purse</td>
+      <td>Percent of Purse</td>
       <td>Total for Result</td>
+      <td>Result Percent of Purse</td>
     </tr>
     <tr>
       <td>Champion</td>
@@ -61,6 +62,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>$1,262,220</td>
       <td>18.4 %</td>
       <td>1</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -75,6 +77,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Semifinal</td>
@@ -83,6 +86,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>$705,270</td>
       <td>10.3 %</td>
       <td>2</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -97,6 +101,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Round 4</td>
@@ -105,6 +110,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>$775,640</td>
       <td>11.3 %</td>
       <td>8</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -119,6 +125,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Round 2</td>
@@ -127,6 +134,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>$988,320</td>
       <td>14.4 %</td>
       <td>32</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -141,6 +149,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Qualifying Rnd 2</td>
@@ -152,6 +161,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Qualifying Rnd 1</td>
@@ -160,6 +170,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td>$123,600</td>
       <td>1.8 %</td>
       <td>24</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
