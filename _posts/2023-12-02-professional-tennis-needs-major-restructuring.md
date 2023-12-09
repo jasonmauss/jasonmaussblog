@@ -64,8 +64,6 @@ The total prize money available was $8,800,000. A portion of that goes to double
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>Runner-up</td>
