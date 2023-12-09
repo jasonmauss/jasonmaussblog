@@ -177,3 +177,5 @@ The total prize money available was $8,800,000. A portion of that goes to double
     </tr>
   </tbody>
 </table>
+
+As you can see from the data in the table above 
