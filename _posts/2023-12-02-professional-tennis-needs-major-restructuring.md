@@ -80,7 +80,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
     </tr>
     <tr>
       <td>Semifinal</td>
-      <td>$352,635 (4% x 2)</td>
+      <td>$352,635</td>
       <td>5.1 %</td>
       <td>$705,270</td>
       <td>10.3 %</td>
