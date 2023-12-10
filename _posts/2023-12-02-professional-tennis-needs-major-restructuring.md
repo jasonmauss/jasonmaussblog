@@ -16,9 +16,11 @@ Amidst the resounding echoes of critics asserting that "Tennis can't get out of 
 
 ### My tennis background and perspective
 
-I've been involved in tennis as a fan and player since my teenage years which, for me was the mid 1990's. The hey-day of players like Lendl, Edberg, Becker, Sampras, Agassi and their contemporaries. As a young fan, my sphere of interest didn't include much beyond watching matches or highlights when they were nationally televised. No cable TV in the house meant watching the four majors and having some idea of which players had recently taken home the titles.
+Ever since my teenage years in the mid-1990s, I've been playing recreationally and following the world of pro tennis, captivated by the era of legends like Lendl, Edberg, Becker, Sampras, and Agassi. In those early days, my tennis universe revolved around watching matches and highlights when they were nationally televised. No cable TV meant mostly following the four majors and keeping tabs on who claimed the coveted titles.
 
-As a young adult paying for my own cable TV package, I was watching tennis on TV as often as I could (sometimes ruining my sleep schedule over two weeks) and began following the sport and players much closer. I was also playing often and breaking strings so I bought my own electronic stringing machine and taught myself how to restring racquets to save some money long-term. This perfunctory cost-savings decision was actually one that would end up having a huge impact on my level of involvement in the sport later in my life (stories for another time). As more information about players, tournaments, and the business side of the sport gradually trickled on to the internet I was surprised about some of what I was learning. Perhaps even more surprising is that not much has changed in the twenty years since then, which at the time already had decades of the status quo making up the sports history.
+As a young adult paying for my own cable TV package, I was watching tennis on TV as often as I could (sometimes ruining my sleep schedule over two weeks) and began following the sport and players much closer. My frequent playing resulted in breaking strings often enough that I decided to buy my own electronic stringing machine and taught myself how to restring racquets to save some money long-term. This perfunctory cost-savings decision was actually one that would end up having a huge impact on my level of involvement in the sport later in my life (stories for another time). 
+
+As more information about players, tournaments, and the business side of the sport gradually trickled on to the internet I was surprised about some of what I was learning. Perhaps even more surprising is that not much has changed in the twenty years since then, which at the time already had decades of the status quo making up the sport's history.
 
 While I have a laundry list of improvements I think tennis could make, I'll focus on these for now:
 
@@ -31,15 +33,17 @@ Let's get into it. Also, I love to hear from readers what they think, so feel fr
 
 ### Prize Money: The status quo has to go
 
-Every major professional sport, whether it's teams or individuals, has some disparity among how much each player earns. The *superstars* in pro sports can make ten, twenty, or even fifty times as much as their colleagues, especially if you factor in earnings from sponsorships and other non-salary income. For tennis to have it's top-ranked and most popular players earning more than their lower ranked, less popular peers is not one of the financial aspects of tennis that I have a problem with. However, the distribution of prize money for tournaments could really stand to have some more thought given to it. A more even (I'd say *fair*) distribution of the prize money pool could go a long way to make the same coaching, training and career resources available to more players and even potentially increase the longevity of players careers.
+In the realm of professional sports, be it team-based or individual, a pronounced income disparity prevails among players. The *superstars* of the sports world can amass earnings ten, twenty, or even fifty times greater than their colleagues, especially when factoring in income from sponsorships and other non-salary streams. In the context of tennis, the phenomenon of top-ranked and highly popular players out-earning their lower-ranked counterparts isn't inherently problematic from a financial perspective.
+
+However, where tennis faces a critical financial challenge lies in the distribution of prize money at tournaments. It's here that a nuanced examination is warranted. A more equitable—dare I say, *fair*—allocation of the prize money pool could significantly enhance the sport. Such an approach would not only democratize access to crucial resources like coaching, training, and career development, but also holds the potential to extend the longevity of players' careers. By fostering a more inclusive financial landscape, tennis can ensure that the benefits of success are shared more broadly, creating a sustainable and thriving ecosystem for all its participants.
 
 For my example, I'm using a decent size professional tennis tournament. Not one of the four majors, but one of the bigger tournaments - Indian Wells. In the table below is the prize money structure for the 2023 Indian Wells men's singles draw, and how I would structure the prize money if it were up to me. *I would also increase the share of revenue that tournaments are required to share with the players via prize money, but that's a whole other topic*. While I'm only using men's singles as an example here the same redistribution percentages could be applied to prize money for women's tennis, doubles, etc. 
 
 #### 2023 BNP Paribas Open Men's Singles (Indian Wells)
 
-It's important to keep in mind the percentages as well as how many players get eliminated each round (receiving the same payout) and what percentage of the prize money that round's payout represents. I've included it all in this breakdown to hopefully show how absurdly lopsided the earnings are at the top.
+It's important to keep in mind the percentages as well as how many players get eliminated each round (receiving the same payout) and what percentage of the prize money that the payouts for that round's losing players represents. I've included it all in this breakdown to hopefully show how absurdly lopsided the earnings are at the top.
 
-The total prize money available was $8,800,000. A portion of that goes to doubles teams so the total prize money going towards singles competition was **$6,857,990**.
+The total prize money available on the men's side (as well as the women's) in 2023 was $8,800,000. A portion of that goes to doubles teams so the total prize money going towards singles competition was **$6,857,990**.
 
 <table>
   <tbody>
@@ -178,4 +182,7 @@ The total prize money available was $8,800,000. A portion of that goes to double
   </tbody>
 </table>
 
-As you can see from the data in the table above 
+Certain figures in the table above show just *how much* tennis rewards their champions at the expense of the rest of the field. The current distribution of prize money:
+* Awards the champion roughly *twice* what it awards the opponent they defeated in the final. So double the financial reward for winning just one more match. In fact, the champion could potentially win fewer points in that match, but still receive double the prize money.
+* Awards the champion as much as the runner-up as well as the combined sum given to all 32 players that lost their first round matches.
+* Awards just one person (the champion) 18.4 percent of the total prize money purse in an event where nearly 100 players entered the main draw.
