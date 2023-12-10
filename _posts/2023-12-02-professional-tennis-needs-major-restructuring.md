@@ -66,10 +66,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$1,262,220</td>
       <td>18.4 %</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$630,935</td>
+      <td>9.2 %</td>
+      <td>$630,935</td>
+      <td>9.2 %</td>
     </tr>
     <tr>
       <td>Runner-up</td>
@@ -78,10 +78,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$662,360</td>
       <td>9.7 %</td>
       <td>1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$493,775</td>
+      <td>7.2 %</td>
+      <td>$493,775</td>
+      <td>7.2 %</td>
     </tr>
     <tr>
       <td>Semifinal</td>
@@ -90,10 +90,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$705,270</td>
       <td>10.3 %</td>
       <td>2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$322,325</td>
+      <td>4.7 %</td>
+      <td>$644,650</td>
+      <td>9.4 %</td>
     </tr>
     <tr>
       <td>Quarterfinal</td>
@@ -102,10 +102,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$737,860</td>
       <td>10.8 %</td>
       <td>4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$171,450</td>
+      <td>2.5 %</td>
+      <td>$685,800</td>
+      <td>10 %</td>
     </tr>
     <tr>
       <td>Round 4</td>
@@ -114,10 +114,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$775,640</td>
       <td>11.3 %</td>
       <td>8</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$102,870</td>
+      <td>1.5 %</td>
+      <td>$822,960</td>
+      <td>12 %</td>
     </tr>
     <tr>
       <td>Round 3</td>
@@ -126,10 +126,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$892,320</td>
       <td>13.0 %</td>
       <td>16</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$61,720</td>
+      <td>0.9 %</td>
+      <td>$987,550</td>
+      <td>14.4 %</td>
     </tr>
     <tr>
       <td>Round 2</td>
@@ -138,10 +138,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$988,320</td>
       <td>14.4 %</td>
       <td>32</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$34,290</td>
+      <td>0.5 %</td>
+      <td>$1,097,280</td>
+      <td>16 %</td>
     </tr>
     <tr>
       <td>Round 1</td>
@@ -150,10 +150,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$597,120</td>
       <td>8.7 %</td>
       <td>32</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$30,860</td>
+      <td>0.45 %</td>
+      <td>$987,550</td>
+      <td>14.4 %</td>
     </tr>
     <tr>
       <td>Qualifying Rnd 2</td>
@@ -162,10 +162,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$113,280</td>
       <td>1.7 %</td>
       <td>12</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$19,890</td>
+      <td>0.29 %</td>
+      <td>$238,660</td>
+      <td>3.5 %</td>
     </tr>
     <tr>
       <td>Qualifying Rnd 1</td>
@@ -174,10 +174,10 @@ The total prize money available on the men's side (as well as the women's) in 20
       <td>$123,600</td>
       <td>1.8 %</td>
       <td>24</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>$$10,290</td>
+      <td>0.15 %</td>
+      <td>$246,890</td>
+      <td>3.6 %</td>
     </tr>
   </tbody>
 </table>
@@ -186,3 +186,10 @@ Certain figures in the table above show just *how much* tennis rewards their cha
 * Awards the champion roughly *twice* what it awards the opponent they defeated in the final. So double the financial reward for winning just one more match. In fact, the champion could potentially win fewer points in that match, but still receive double the prize money.
 * Awards the champion as much as the runner-up as well as the combined sum given to all 32 players that lost their first round matches.
 * Awards just one person (the champion) 18.4 percent of the total prize money purse in an event where nearly 100 players entered the main draw.
+* Awards the champion a larger share of the prize money than any other round of the tournament by far. The champion receives $1.26M while all 32 players that lose in the second round collectively receive $987,550.
+
+In the columns to the right where I've laid out what my take on the prize money distribution could be, you see:
+* Players that lose in qualifying (likely younger players still developing, or players coming back from injury) receive roughly double the current amount.
+* The Champion still receives the largest check of anyone, but it's only 9.2% of the total purse compared to the 7.2% the runner-up receives. Not double the amount, but enough to make a meaningful difference.
+* The slight decreases in prize money going to the Quarterfinalists and Semifinalists helps fund more meaningful payouts to the players losing in rounds 1 - 4. Keep in mind that typically (not always, but regularly) the players making the quarterfinals and beyond in any given tournament are reaching the later rounds in most of the tournaments they play in. This means they will still be repeatedly earning larger prize money sums than their lower-ranked peers for better performance. A lot of those players earn money from sponsorships, playing exhibitions during the off-season and bonus payouts. In some cases, appearance fees as well.
+
