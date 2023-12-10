@@ -39,7 +39,7 @@ However, where tennis faces a critical financial challenge lies in the distribut
 
 For my example, I'm using a decent size professional tennis tournament. Not one of the four majors, but one of the bigger tournaments - Indian Wells. In the table below is the prize money structure for the 2023 Indian Wells men's singles draw, and how I would structure the prize money if it were up to me. *I would also increase the share of revenue that tournaments are required to share with the players via prize money, but that's a whole other topic*. While I'm only using men's singles as an example here the same redistribution percentages could be applied to prize money for women's tennis, doubles, etc. 
 
-#### 2023 BNP Paribas Open Men's Singles (Indian Wells)
+##### 2023 BNP Paribas Open Men's Singles (Indian Wells)
 
 It's important to keep in mind the percentages as well as how many players get eliminated each round (receiving the same payout) and what percentage of the prize money that the payouts for that round's losing players represents. I've included it all in this breakdown to hopefully show how absurdly lopsided the earnings are at the top.
 
@@ -183,13 +183,22 @@ The total prize money available on the men's side (as well as the women's) in 20
 </table>
 
 Certain figures in the table above show just *how much* tennis rewards their champions at the expense of the rest of the field. The current distribution of prize money:
-* Awards the champion roughly *twice* what it awards the opponent they defeated in the final. So double the financial reward for winning just one more match. In fact, the champion could potentially win fewer points in that match, but still receive double the prize money.
-* Awards the champion as much as the runner-up as well as the combined sum given to all 32 players that lost their first round matches.
+
+* Awards the champion roughly *twice* what it awards the opponent they defeat in the final. Double the reward for winning just one more match. In fact, the champion could potentially win fewer points in that match, but still receive double the prize money.
+* Awards the champion as much as the runner-up plus the combined sum given to all 32 players that lost their first round matches.
 * Awards just one person (the champion) 18.4 percent of the total prize money purse in an event where nearly 100 players entered the main draw.
 * Awards the champion a larger share of the prize money than any other round of the tournament by far. The champion receives $1.26M while all 32 players that lose in the second round collectively receive $987,550.
 
 In the columns to the right where I've laid out what my take on the prize money distribution could be, you see:
-* Players that lose in qualifying (likely younger players still developing, or players coming back from injury) receive roughly double the current amount.
-* The Champion still receives the largest check of anyone, but it's only 9.2% of the total purse compared to the 7.2% the runner-up receives. Not double the amount, but enough to make a meaningful difference.
-* The slight decreases in prize money going to the Quarterfinalists and Semifinalists helps fund more meaningful payouts to the players losing in rounds 1 - 4. Keep in mind that typically (not always, but regularly) the players making the quarterfinals and beyond in any given tournament are reaching the later rounds in most of the tournaments they play in. This means they will still be repeatedly earning larger prize money sums than their lower-ranked peers for better performance. A lot of those players earn money from sponsorships, playing exhibitions during the off-season and bonus payouts. In some cases, appearance fees as well.
 
+* Players that lose in qualifying (likely younger players still developing, or players coming back from injury) receive roughly double the current amount.
+* The Champion still receives the largest share of any one player, but it's only 9.2% of the total purse compared to the 7.2% the runner-up receives. Not double the amount, but enough to make a meaningful difference.
+* The slight decreases in prize money going to the Quarterfinalists and Semifinalists also help fund more meaningful payouts to the players losing in rounds 1 - 4. Keep in mind that typically (not always, but regularly) the players making the quarterfinals and beyond in any given tournament are reaching those later rounds in most of the tournaments they play in. This means they will still be repeatedly earning larger prize money sums than their lower-ranked peers for better performance. A lot of those players also have the clout to earn money outside of tournament prize money from sponsorships, playing exhibitions and appearance fees.
+
+##### While we're talking money
+
+Some kind of player allowance for hotel, transportation, meals, and airfare - should be part of the financial commitment each tournament makes. It's bad enough when a player loses early, but then having their prize money check barely cover the cost of their stay for the week just makes it even more painful. Players can opt to make whatever accommodations they choose, but a base budget for each player should cover their stay for the week within a certain distance of the tournament site.
+
+
+
+### Single Elimination is the enemy of player value
