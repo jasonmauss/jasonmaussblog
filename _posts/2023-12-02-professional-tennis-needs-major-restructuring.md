@@ -212,10 +212,34 @@ There are probably several other ways tournament sponsors and organizers could m
 
 ### A strong players union is long overdue
 
-Professional tennis players relationship with the "T-7" (ATP, WTA, ITF and the 4 major events) is similar to that of a contractor. The players have little collective bargaining power when the tour environment is every man/woman for themselves. While I do believe the recent emergence of the [PTPA](https://www.ptpaplayers.com/) will be an improvement over the ATP and WTA Player Advisory Councils in the long term, it still is yet to establish itself in the tennis world as an organization with enough power and influence to affect real change - yet. Their list of core tenets and principles sound promising, though.
+Professional tennis players relationship with the "T-7" (ATP, WTA, ITF and the 4 major events) is similar to that of a contractor. The players have little collective bargaining power when the tour environment is every man/woman looking out for themselves. While I do believe the recent emergence of the [PTPA](https://www.ptpaplayers.com/) will be an improvement over the ATP and WTA Player Advisory Councils in the long term, it still is yet to establish itself in the tennis world as an organization with enough power and influence to affect real change - yet. Their list of core tenets and principles sound promising, though.
 
 Perhaps with a players union, tournaments wouldn't do things like schedule night session matches that end up lasting long past midnight, or other common practices that players lament during their post-match press conferences.
 
-### Tennis takes a village to produce professionals
+### It takes a village (and a small fortune) to produce a tennis professional.
 
-Talent and hard work combined can still fall short in the world of tennis. This is not unique to tennis, but tennis can make it awfully difficult to attain the professional ranks. Depending on a variety of factors (country of origin, socioeconomic status, access to coaching and lessons, parental support, and much more) - players trying to develop talent in a sport as demanding as tennis face a long arduous road that sometimes even takes some lucky tournament draws to help them along.
+Talent and hard work combined can still fall short in the world of tennis. This is not unique to tennis, but tennis can make it awfully difficult to attain the professional ranks. Depending on a variety of factors (country of origin, socioeconomic status, access to coaching and lessons, parental support, and much more) - players trying to develop professional level talent in a sport as demanding as tennis face a long arduous road that sometimes even takes some lucky tournament draws to help them along. 
+
+Then there's the cost of training. Most pro's begin playing at a young age (around 5 years old give or take a couple of years) so these costs start adding up pretty early on in their lives. These are things like:
+
+* Gear - just a racquet and tennis balls to start with, but by their teenage years you're looking at multiple racquets, string and the cost of re-stringing, a decent racquet bag, and shoes that only last a few months. A lot of small stuff too like overgrips and wristbands/headbands, etc.
+* Fees - court rental and tournament entry as well as potential memberships like USTA.
+* Lessons / Coaching - This can vary widely depending on who the coach is and the club or facility they teach at.
+* Travel - Even at a fairly young age, competitive junior players need to travel to tournaments to play matches that will go towards some kind of regional or national ranking. As they get older, international travel enter the picture. Queue the sound of a cash register opening. Ka-ching!
+
+At the most elite levels of training, you have tennis academies where many well-known professionals spent months or years training. Here are the costs at some of the well-known academies, for a single year:
+
+* Evert Tennis Academy - $49,000
+* Rafa Nadal Academy - $62,000
+* Bollettieri (now IMG) Academy - $67,000 - $89,000
+* Mouratoglou Academy - $65,000
+
+Without a sponsor and/or wealthy family connections, these types of facilities and coaching are basically unattainable for the average aspiring tennis youth. Even if you are lucky enough to be in a financial position to make this kind of investment (or have it made on your behalf) there are the harsh realities of the odds that it will pay off and you'll one day be a successful professional earning a living from the sport, because those two things are not necessarily tied to one another.
+
+Taking a look at the average yearly earnings by professional athletes, it quickly brings into focus how low tennis ranks.
+
+* Average NBA Salary (2023-2024 season) $9.7 million
+* Average NFL Salary (2023-2024 season) $3.4 million
+* Average MLB Salary (2023 season) $4.9 million
+* Average EPL Salary (2023 season) $3.9 million
+*
