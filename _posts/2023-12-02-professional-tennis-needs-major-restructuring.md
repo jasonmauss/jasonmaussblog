@@ -28,6 +28,7 @@ While I have a laundry list of improvements I think tennis could make, I'll focu
 * The Single-elimination value proposition
 * Player Unionization / Representation
 * Support for developing talent
+* Revenue Sharing with players
 
 Let's get into it. Also, I love to hear from readers what they think, so feel free to leave your comments at the bottom of the page.
 
@@ -236,10 +237,24 @@ At the most elite levels of training, you have tennis academies where many well-
 
 Without a sponsor and/or wealthy family connections, these types of facilities and coaching are basically unattainable for the average aspiring tennis youth. Even if you are lucky enough to be in a financial position to make this kind of investment (or have it made on your behalf) there are the harsh realities of the odds that it will pay off and you'll one day be a successful professional earning a living from the sport, because those two things are not necessarily tied to one another.
 
+### Tennis revenue needs to be shared more with the players
+
+Have a look at this infographic that shows how much revenue is shared with tennis players compared to other professional sports organizations:
+
+![](../uploads/revenue-sharing.webp)
+
 Taking a look at the average yearly earnings by professional athletes, it quickly brings into focus how low tennis ranks.
 
-* Average NBA Salary (2023-2024 season) $9.7 million
-* Average NFL Salary (2023-2024 season) $3.4 million
-* Average MLB Salary (2023 season) $4.9 million
-* Average EPL Salary (2023 season) $3.9 million
-*
+* Average NBA Salary (2023-2024 season, 450 players) $9.7 million
+* Average NFL Salary (2023-2024 season, 1,696 players) $3.4 million
+* Average MLB Salary (2023 season, 945 players) $4.9 million
+* Average EPL Salary (2023 season, 555 players ) $3.9 million
+* Average Tennis Earnings (2023 season, top 1,000) $185,000
+
+One of these things is not like the others. It's also worth noting that the $185,000 average figure for tennis is skewed by top players making several million while the 1,000 ranked player made just $4,273. The \*median\* salary for the top 1,000 tennis players is just $22,362. It's also worth mentioning that the athletes in those other sports are not paying for their own transportation, lodging, meals, and coaching. In tennis, only the top 70 players earned a net (before taxes) amount of prize money of $1 million or more. In the other sports, being a top 70 players is all-star territory and you're likely earning 8 figures a year.
+
+This is where I hope recent initiatives like the ATP's [OneVision](https://onevision.atptour.com/onevision/) can step in and put more of the revenue from the sport into the players pockets. 
+
+### Final Thoughts
+
+As someone that spent a considerable
