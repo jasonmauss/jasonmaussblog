@@ -197,8 +197,25 @@ In the columns to the right where I've laid out what my take on the prize money 
 
 ##### While we're talking money
 
-Some kind of player allowance for hotel, transportation, meals, and airfare - should be part of the financial commitment each tournament makes. It's bad enough when a player loses early, but then having their prize money check barely cover the cost of their stay for the week just makes it even more painful. Players can opt to make whatever accommodations they choose, but a base budget for each player should cover their stay for the week within a certain distance of the tournament site.
-
-
+Some kind of player allowance for hotel, transportation, meals, and airfare - should be part of the financial commitment each tournament makes. It's bad enough when a player loses early, but then having their prize money check barely cover the cost of their stay for the week just makes it even more painful. Players can opt to make whatever accommodations they choose, but a base budget for each player should cover their stay at "reasonable" accommodations for the week within a certain distance of the tournament site. 
 
 ### Single Elimination is the enemy of player value
+
+As soon as the first round of a tournament has finished, half of the players from the main draw have been eliminated. At a major, that's 64 players that practiced and prepared, made all the necessary travel arrangements to be at the tournament - sometimes bringing along a coach, and potentially arriving several days before their match to get used to the conditions - all to be eliminated within a few hours. The nature of single elimination tournaments is also stressful and chaotic for players trying to schedule and purchase flights, hotels and other travel accommodations. It's not like the eliminated players suddenly lost all of their tennis ability or appeal to fans. What if tournaments figured out some ways to keep eliminated players around and had ways for them to still make some money? They could offer players the chance to:
+
+* Participate in exhibition matches - either with other eliminated players, or with fans willing to pay for the awesome experience of hitting with a touring pro. Players would have to weigh the risk of potential injury against what kind of financial gain was on the table, of course.
+* Coaching sessions / lessons - a lot of tennis fans play the sport regularly. Offer fans a chance to pay for a 15, 30 or 60 minute long practice session where a pro gives them feedback on their game or offers some coaching advice. Tournaments could sell raffle tickets to some of these sessions as a way to pay the players involved.
+* The equivalent of a "back stage pass" - access to players for photo ops, autographs, and Q & A sessions. Social media companies could sponsor these sessions and pay the players a stipend if it made financial sense.
+* Commentating guest appearances - If you've been lucky enough to hear accomplished players such as Agassi, Roddick, Blake, Becker and others offer their insights during matches, then you know how interesting some of their insights into the match can be. I'm betting most players inside the top 250 in the world would have some interesting comments to share if given the chance. Partner with the broadcasters for this.
+
+There are probably several other ways tournament sponsors and organizers could maximize the value of the players that enter their tournaments if the players were willing to participate and it made sense for them financially and schedule-wise.
+
+### A strong players union is long overdue
+
+Professional tennis players relationship with the "T-7" (ATP, WTA, ITF and the 4 major events) is similar to that of a contractor. The players have little collective bargaining power when the tour environment is every man/woman for themselves. While I do believe the recent emergence of the [PTPA](https://www.ptpaplayers.com/) will be an improvement over the ATP and WTA Player Advisory Councils in the long term, it still is yet to establish itself in the tennis world as an organization with enough power and influence to affect real change - yet. Their list of core tenets and principles sound promising, though.
+
+Perhaps with a players union, tournaments wouldn't do things like schedule night session matches that end up lasting long past midnight, or other common practices that players lament during their post-match press conferences.
+
+### Tennis takes a village to produce professionals
+
+Talent and hard work combined can still fall short in the world of tennis. This is not unique to tennis, but tennis can make it awfully difficult to attain the professional ranks. Depending on a variety of factors (country of origin, socioeconomic status, access to coaching and lessons, parental support, and much more) - players trying to develop talent in a sport as demanding as tennis face a long arduous road that sometimes even takes some lucky tournament draws to help them along.
