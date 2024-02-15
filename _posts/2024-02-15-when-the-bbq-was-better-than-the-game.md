@@ -23,4 +23,6 @@ The baby back ribs were much easier on all counts - hardly any trimming needed, 
 
 ## Let down by the game, but not by the food
 
-Despite my 49ers losing the Super Bowl to the Chiefs in an overtime thriller of a game (UGH!! Moody we needed that PAT!) at least the food tasted great and we got to enjoy it with good company.
+Despite my 49ers losing the Super Bowl to the Chiefs in an overtime thriller of a game (UGH!! Moody we needed that PAT!) at least the food tasted great and we got to enjoy it with good company. As a 49er fan that has been watching every game since the days of Joe Montana and Steve Young, this one really hurt to lose. If the Chiefs had come out from the start and dominated throughout, I think it would have been an easier loss to stomach. However, the 49ers lead for the majority of the game and were looking good on both sides of the ball. When our rookie kicker had an extra point attempt blocked, I said out loud, "That one point better not be the difference between a win and overtime". And unfortunately, my intuition ended up being right as the Chiefs tied up the game late in the 4th quarter to send it into overtime.
+
+The 49ers have now lost the last 3 Super Bowl they've appeared in and two of those losses were only by a field goal. It stings to be so close to victory but still lose. This one is going to take a little while to get over.
