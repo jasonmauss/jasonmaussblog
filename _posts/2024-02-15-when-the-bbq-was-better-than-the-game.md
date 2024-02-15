@@ -11,5 +11,6 @@ tags:
   - BBQ
   - Pork Ribs
   - Brisket
+  - Football
 ---
 As soon as the clock expired on the NFC Championship game between the Detroit Lions and my San Francisco 49ers, I was already thinking about what kind of BBQ I was going to make for the big game in two weeks time.
