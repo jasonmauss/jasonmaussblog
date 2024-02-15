@@ -27,6 +27,8 @@ Despite my 49ers losing the Super Bowl to the Chiefs in an overtime thriller of 
 
 The 49ers have now lost the last 3 Super Bowl they've appeared in and two of those losses were only by a field goal. It stings to be so close to victory but still lose. This one is going to take a little while to get over. 
 
+## Super Bowl Ratings
+
 Favorite Commercial: Ben Affleck and Dunkin Donuts\
 Half-time show Rating: 8.5/10 - The roller skates were unexpected\
 Referees: Pretty fair minus a couple important holding calls - 7.5/10\
