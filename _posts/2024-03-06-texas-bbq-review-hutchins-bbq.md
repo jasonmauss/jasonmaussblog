@@ -41,4 +41,27 @@ Hutchins BBQ also had a pretty nice array of sides, which encompassed the typica
 
 ## Price
 
-Hutchins BBQ is in my opinion, among the upper tier of BBQ restaurants, and they price their food accordingly.
+Hutchins BBQ is in my opinion, among the upper tier of BBQ restaurants, and they price their food accordingly. For everything I ordered, my bill came to about $70, which is pretty much in line with other popular Texas BBQ places. Based on how busy they were when I was there, their prices aren't stopping people from showing up.
+
+## My Reaction
+
+Let's start with the brisket. Great bark, perfectly rendered fat, and some of the most tender I've ever had. Good smoke flavor too that stays with you for hours afterwards. Very nice beef flavor as well, which I've come to learn can sometimes get a little overshadowed depending on the way it's cooked and the rub used.
+
+The pulled pork was tasty enough on it's own, though I used it along with their table sauces and white bread to make some little sandwiches with it. It was juicy as well, and didn't require any saucing, though I doused it with some sauces anyway.
+
+The sausage was very juicy and had plenty of cheese and spice from the diced jalapenos. I don't know if it was the plastic knife I was using or if the casings were tougher than usual, but I had more trouble than usual cutting it up into bite size pieces (beyond the cuts they made for me at the counter).
+
+The pork spare ribs, while still delicious, came in tied for third place with the sausage I would have to say. They were cooked well, the meat easily came cleanly off the bone with each bite. Just not as tasty as the brisket and pulled pork. Still recommended, though.
+
+The mac and cheese was my favorite of the two sides. The potato salad was good, I'm just more of a mac and cheese fan. The banana pudding was about average as far as what you expect from a Texas BBQ restaurant. They used Nilla wafers on top and fresh bananas cut up inside some banana pudding. Pretty basic, but hey it's free!
+
+## BBQ Ratings
+
+Just like [El Presidente](https://twitter.com/stoolpresidente), I felt like it would be prudent to leave some of my ratings on these BBQ review posts so, here we go. These are on a scale of 1-10 with decimal precision of 1.
+
+Brisket: 8.5\
+Pulled Pork: 8.3\
+Ribs: 7.8\
+Sausage: 7.7\
+Banana Pudding: 7.1\
+Mac & Cheese: 7.4
