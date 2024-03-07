@@ -27,4 +27,10 @@ In my experience with Texas BBQ restaurants so far, I've come to realize that th
 
 ## Speaking of waiting in line...
 
-During my short wait (about 10 minutes) I twice got handed a sample of something to try and pass to the people behind me. The first sample looked and tasted like brisket, and the second sample was beef rib. It was a nice way to get a little taste of what you were about to order once you reached the counter.
+During my short wait (about 10 minutes) I twice got handed a sample of something to try and pass to the people behind me. The first sample looked and tasted like brisket, and the second sample was beef rib. It was a nice way to get a little taste of what you were about to order once you reached the counter. 
+
+![Hutchins BBQ employees put samples into a paper tray to be handed down the line](../uploads/hutchinscookpic2.jpg "Hutchins BBQ employees put samples into a paper tray to be handed down the line")
+
+## The Meat Counter
+
+Once you reach
