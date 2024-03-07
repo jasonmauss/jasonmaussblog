@@ -33,4 +33,6 @@ During my short wait (about 10 minutes) I twice got handed a sample of something
 
 ## The Meat Counter
 
-Once you reach
+Once you reach the front of the line there is a large meat counter with people holding knives ready to put whatever you order onto a tray for you. And they remind you to take a second tray for sides. They brushed the ribs I ordered with a little warm BBQ sauce when I ordered, which was a nice touch. They use some lamps to keep the meat warm as well, without drying out the meat much which was also nice. I ended up ordering 1/2 lb of brisket, one jalapeno cheddar sausage, 1/2 lb of pulled pork, and 1/2 lb of pork ribs. I was very tempted to also order one of their beef ribs - which looked **AMAZING** - but I knew I only had so much room in my stomach. Something to try next time, I guess.
+
+I
