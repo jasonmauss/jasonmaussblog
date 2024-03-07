@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Texas BBQ Review - Hutchins BBQ
-date: 2024-03-06T05:00:12.228Z
+date: 2024-03-07T01:19:55.791Z
 image: ../uploads/hutchins-bbq.png
 title_color: "#ffffff"
 caption: Hutchins BBQ has two locations, one in Frisco and one in McKinney.
@@ -13,6 +13,18 @@ tags:
   - Pork Ribs
   - Sausage
 ---
-During my latest Texas trip to the Dallas / Fort Worth area (or "DFW", or "The Metroplex" as the locals say) I decided to give [Hutchins BBQ](https://hutchinsbbq.com/frisco-menu) a try. I arrived at their Frisco location around 5:45, fortunately in time to beat the dinner rush. Their peak busy time in the evening causes the line to back up all the way out the doors and into the parking lot, which I noticed as I exited to head back to my hotel room. A line like that didn't surprise me, given the quality of what I had just finished eating.
+During my latest Texas trip to the Dallas / Fort Worth area (or "DFW", or "The Metroplex" as the locals say) I decided to give [Hutchins BBQ](https://hutchinsbbq.com/frisco-menu) a try. I arrived at their Frisco location around 5:45, fortunately in time to beat the dinner rush. Their peak busy time in the evening causes the line to back up all the way out the doors and into the parking lot, which I noticed as I exited to head back to my hotel room. A line of that length didn't surprise me though, given the quality of what I had just finished eating.
 
-In my experience with Texas BBQ restaurants so far, I've come to realize that the smell of smoked meat should hit your nose well in advance of you entering the doors and Hutchins definitely checked that box. I also enjoyed looking at the scribble graffiti all over the walls inside that contributed to the feeling that visiting Hutchins BBQ was a rite of passage for those that had visited there before me. Visitors names, which states they had travelled from, and in which year appeared all over the walls, windows and pretty much any surface they could reach.
+In my experience with Texas BBQ restaurants so far, I've come to realize that the smell of smoked meats should hit your nose well in advance of you entering the doors and Hutchins definitely checked that box. I also enjoyed looking at the scribble graffiti all over the inside walls that contributed to the feeling that visiting Hutchins BBQ was a rite of passage for those that had visited there before me. Visitors names, which states they had travelled from, and in which year appeared all over the walls, windows and pretty much any surface they could reach. It almost felt like I was waiting in line at some kind of BBQ amusement park ride.
+
+![The welcome sign inside Hutchins BBQ with a QR Code to scan for their menu](../uploads/hutchinswelcomesignpic.jpg "The welcome sign inside Hutchins BBQ with a QR Code to scan for their menu")
+
+![Not much room left to scribble anything at this point. Reminds me a little bit of the original million dollar homepage website.](../uploads/hutchinswallwritingpic1.jpg "Not much room left to scribble anything at this point. Reminds me a little bit of the original million dollar homepage website.")
+
+![I appreciated what appeared to be references to The Goonies and The Shawshank Redemption.](../uploads/hutchinswallwritingpic2.jpg "I appreciated what appeared to be references to The Goonies and The Shawshank Redemption.")
+
+![Getting closer to the counter now, Hutchins BBQ is full of cool signage and has a very country farm smokehouse type atmosphere.](../uploads/hutchinswallwritingpic3.jpg "Getting closer to the counter now, Hutchins BBQ is full of cool signage and has a very country farm smokehouse type atmosphere.")
+
+## Speaking of waiting in line...
+
+During my short wait (about 10 minutes) I twice got handed a sample of something to try and pass to the people behind me. The first sample looked and tasted like brisket, and the second sample was beef rib. It was a nice way to get a little taste of what you were about to order once you reached the counter.
